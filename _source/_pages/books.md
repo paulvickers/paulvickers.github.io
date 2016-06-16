@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Books!
 subtitle: Books I have written, co-authored, contributed to, or co-edited.
 permalink: /books/
