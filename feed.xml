@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dr Paul Vickers</title>
-    <description>Sonification, auditory display, human-computer interaction, aesthetics, multimedia programming, network security and visualization</description>
-    <link>http://paulvickers.github.io</link>
-    <atom:link href="http://paulvickers.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2016-06-16T16:13:50+01:00</updated><id>https://paulvickers.github.io/</id><title>Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author></feed>
