@@ -9,13 +9,34 @@ header:
   overlay_filter: rgba(253, 153, 0, 0.5)
 share: true
 ---
+{% include toc icon="gears" title="nuson" %}
 
 nuson, or the Northumbria University Sonification Network is a group of researchers from 
 across the university who are all working on aspects of sonification and auditory display
 in a range of application areas.
 
-Details coming soon...
+## Paul Vickers
 
+* [Alchemical Sensing](/alchemical_sensing/)
+* [socs](/socs/)
+
+## Holger Ballweg
+
+* Sonification of complex biomedical data
+* [Holger's web page](https://uiae.de/)
+
+## Helen Collard
+
+* Sonification of breathing during Pranayama
+
+## Mohamed Debashi
+
+* Interactive Sonification of Network Traffic to support Cyber Situational Awareness
+
+## Louise Mackenzie
+
+* [Alchemical Sensing](/alchemical_sensing/)
+* [Louise's web page](http://www.loumackenzie.com/)
 
 
 

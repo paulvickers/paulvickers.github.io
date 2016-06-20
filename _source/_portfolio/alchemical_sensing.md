@@ -2,7 +2,9 @@
 title: "Alchemical Sensing"
 excerpt: "The sonification of self-organized criticality for situational awareness in computer networks."
 permalink: /alchemical_sensing/
-
+header: 
+  overlay_image: MaxPatchTruncated.png
+  overlay_filter: rgba(0, 153, 253, 0.7)
 sidebar:
   - title: "GitHub"
   - text: '<a href="https://github.com/paulvickers/nuson-moson">Get this on GitHub</a>'

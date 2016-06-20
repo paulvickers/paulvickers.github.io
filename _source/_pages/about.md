@@ -3,8 +3,11 @@ layout: single
 title: About me
 subtitle: Sonification, auditory display, human-computer interaction, aesthetics, multimedia programming, network security and visualization
 permalink: /about/
+header:
+  overlay_image: code.jpeg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: rgba(0, 153, 253, 0.4)
 ---
-
 My name is Paul Vickers and I am Associate Professor & Reader in Computer Science & 
 Computational Perceptualisation at Northumbria University in Newcastle-upon-Tyne, UK.
 
@@ -13,6 +16,11 @@ in the Faculty of Engineering and Environment at [Northumbria University](https:
 [official university web page](https://www.northumbria.ac.uk/about-us/our-staff/v/dr-paul-vickers/).
 
 I am the Lead for Northumbria's [Digital Living](https://www.northumbria.ac.uk/research/research-themes/theme-2/) multidisciplinary research theme.
+
+
+[![image-right](/images/HTTLAP16Large.jpg)](http://www.howtothinklikeaprogrammer.com){: .align-right}
+I am the author of [How To Think Like A Programmer](http://www.howtothinklikeaprogrammer.com).
+ 
 
 Prior to October 2001 I worked for 12 years in the School of Computing & Mathematical Sciences at Liverpool John Moores University.
 
