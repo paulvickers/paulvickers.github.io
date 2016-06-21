@@ -1,9 +1,11 @@
 ---
 layout: single
-excerpt: "Sonification, auditory display, human-computer interaction, aesthetics, network security visualization, digital living."
+excerpt: "Sonification, auditory display, aesthetics, security, visualization, HCI, digital living."
 header:
-  overlay_color: rgb(253, 153, 0)
-  overlay_color: rgb(253,153,0)
+  overlay_image: milky-way.jpeg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"  
+  #overlay_color: rgb(253, 153, 0)
+  #overlay_color: rgb(253,153,0)
 sidebar:
   nav: foo
 ---
@@ -27,7 +29,7 @@ sidebar:
 
 {% include base_path %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+<h2 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h2>
 
 {% for post in paginator.posts %}
   {% include archive-single.html %}

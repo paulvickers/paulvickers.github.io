@@ -2,13 +2,12 @@
 main:
   - title: "About"
     url: /about/
-
+  - title: "Posts"
+    url: /year-archive/
   - title: "Publications"
     url: /publications/
-
   - title: "Research Projects"
     url: /projects/
-    
   - title: "nuson"
     url: /nuson/
 
