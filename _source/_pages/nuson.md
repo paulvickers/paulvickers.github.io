@@ -6,7 +6,7 @@ excerpt: "Sonification, audification, and auditory display at Northumbria."
 header:
   overlay_image: mixer.jpeg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  overlay_filter: rgba(253, 153, 0, 0.5)
+  overlay_filter: rgba(212,175,55, 0.5)
 share: true
 ---
 {% include toc icon="gears" title="nuson" %}

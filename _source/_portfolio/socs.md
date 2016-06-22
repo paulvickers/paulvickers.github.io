@@ -4,7 +4,7 @@ title: "Self-Organized Criticality Sonification"
 excerpt: "The sonification of self-organized criticality for situational awareness in computer networks."
 permalink: /socs/
 header: 
-  overlay_image: banner.jpg
+  overlay_image: socs.jpeg
   overlay_filter: rgba(0, 153, 253, 0.7)
 sidebar:
   - title: "GitHub"
