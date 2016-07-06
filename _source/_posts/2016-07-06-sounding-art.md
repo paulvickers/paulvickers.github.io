@@ -19,10 +19,3 @@ categories:
 > * Sound Technologies and Media: The impact of sonic technologies on contemporary culture, electroacoustic innovation, and how the way we make and access music has changed.
 >
 > With contributions from leading scholars and cutting-edge researchers, The Routledge Companion to Sounding Art is an essential resource for anyone studying the intersection of sound and art.
-
-This year's [International conference on Auditory Display (ICAD)](http://icad.org/icad2016/)
- is meeting in Canberra, Australia from 3-7 July. We've got a great programme lined up so 
- come along and hear what all the fuss is about. :-)
-
-
-https://www.routledge.com/The-Routledge-Companion-to-Sounding-Art/Cobussen-Meelberg-Truax/p/book/9781138780613
