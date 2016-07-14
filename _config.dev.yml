@@ -1,3 +1,4 @@
+# dummy line added 14/07/16 for test purposes
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -256,10 +257,11 @@ scholar:
 
   sort_by: year,type
   order: descending
-
+  type_order: [article]
+  
   group_by: none
   group_order: descending
-  type_order: [article]
+  
 
 
   source: ./_bibliography
