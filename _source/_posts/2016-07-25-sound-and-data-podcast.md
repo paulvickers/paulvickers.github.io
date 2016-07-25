@@ -11,5 +11,9 @@ categories:
 ---
 
 A little while I was interviewed by [Scot Gresham-Lancaster](http://creativedisturbance.org/people/scot-gresham-lancaster/) for his Sound and Data 
+<<<<<<< HEAD
+sonification podcast. The [interview is now live](http://creativedisturbance.org/podcast/dr-paul-vickers-sonification-ethical-computing-and-standup-comedy-eng/)
+=======
 sonification podcast. The interview is now [live](http://creativedisturbance.org/podcast/dr-paul-vickers-sonification-ethical-computing-and-standup-comedy-eng/)
+>>>>>>> 8f565975f8c9593bc2144f60e1799c321c4314d2
 so I encourage you to listen to it. All feedback welcome.
