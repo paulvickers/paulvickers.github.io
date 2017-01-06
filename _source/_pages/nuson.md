@@ -15,6 +15,9 @@ nuson, or the Northumbria University Sonification Network is a group of research
 across the university who are all working on aspects of sonification and auditory display
 in a range of application areas.
 
+Source code, audio examples, etc. for our various [projects](/projects/) can be accessed at 
+[NUSON's GitHub site](https://github.com/nuson).
+
 ## Paul Vickers
 
 * [Alchemical Sensing](/alchemical_sensing/)

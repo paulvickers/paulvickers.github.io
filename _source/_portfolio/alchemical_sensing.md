@@ -7,7 +7,7 @@ header:
   overlay_filter: rgba(0, 153, 253, 0.7)
 sidebar:
   - title: "GitHub"
-  - text: '<a href="https://github.com/paulvickers/nuson-moson">Get this on GitHub</a>'
+  - text: '<a href="https://github.com/nuson/moson">Get this on GitHub</a>'
 ---
 
 moson (micro-organism sonification) is a collection of auditory display tools for the 
