@@ -35,7 +35,7 @@ Source code, audio examples, etc. for our various [projects](/projects/) can be 
 
 ## Mohamed Debashi
 
-* [SoNSTAR](/SonSTAR): Interactive Sonification of Network Traffic to support Cyber Situational Awareness
+* [SoNSTAR](/SoNSTAR): Interactive Sonification of Network Traffic to support Cyber Situational Awareness
 
 ## Louise Mackenzie
 
