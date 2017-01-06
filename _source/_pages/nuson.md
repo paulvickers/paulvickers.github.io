@@ -22,6 +22,7 @@ Source code, audio examples, etc. for our various [projects](/projects/) can be 
 
 * [Alchemical Sensing](/alchemical_sensing/)
 * [socs](/socs/)
+* [SoniFRED](/SoniFRED/)
 
 ## Holger Ballweg
 
@@ -34,7 +35,7 @@ Source code, audio examples, etc. for our various [projects](/projects/) can be 
 
 ## Mohamed Debashi
 
-* Interactive Sonification of Network Traffic to support Cyber Situational Awareness
+* [SoNSTAR](/SonSTAR): Interactive Sonification of Network Traffic to support Cyber Situational Awareness
 
 ## Louise Mackenzie
 
