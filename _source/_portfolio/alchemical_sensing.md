@@ -1,6 +1,7 @@
 ---
 title: "Alchemical Sensing"
-excerpt: "The sonification of self-organized criticality for situational awareness in computer networks."
+excerpt: "The sonification and audification of atomic force microscope data recordings of the micro 
+organism Dunaliella salina."
 permalink: /alchemical_sensing/
 header: 
   overlay_image: MaxPatchTruncated.png
