@@ -11,9 +11,11 @@ header:
 My name is Paul Vickers and I am Associate Professor & Reader in Computer Science & 
 Computational Perceptualisation at Northumbria University in Newcastle-upon-Tyne, UK.
 
-I work in the Department of [Computer & Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/) 
+I work in the Department of [Computer & Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-science-and-digital-technologies/) 
 in the Faculty of Engineering and Environment at [Northumbria University](https://www.northumbria.ac.uk/). I also have an 
 [official university web page](https://www.northumbria.ac.uk/about-us/our-staff/v/dr-paul-vickers/).
+
+I was the first Lead for Northumbria's [Digital Living](https://www.northumbria.ac.uk/research/research-themes/theme-2/) multidisciplinary research theme.
 
 
 [![image-right](/images/HTTLAP16Large.jpg)](http://www.howtothinklikeaprogrammer.com){: .align-right}
