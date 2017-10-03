@@ -15,7 +15,7 @@ I work in the Department of [Computer & Information Sciences](https://www.northu
 in the Faculty of Engineering and Environment at [Northumbria University](https://www.northumbria.ac.uk/). I also have an 
 [official university web page](https://www.northumbria.ac.uk/about-us/our-staff/v/dr-paul-vickers/).
 
-I am the Lead for Northumbria's [Digital Living](https://www.northumbria.ac.uk/research/research-themes/theme-2/) multidisciplinary research theme.
+I was the first Lead for Northumbria's [Digital Living](https://www.northumbria.ac.uk/research/research-themes/theme-2/) multidisciplinary research theme.
 
 
 [![image-right](/images/HTTLAP16Large.jpg)](http://www.howtothinklikeaprogrammer.com){: .align-right}
