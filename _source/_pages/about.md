@@ -11,7 +11,7 @@ header:
 My name is Paul Vickers and I am Associate Professor & Reader in Computer Science & 
 Computational Perceptualisation at Northumbria University in Newcastle-upon-Tyne, UK.
 
-I work in the Department of [Computer & Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-science-and-digital-technologies/) 
+I work in the Department of [Computer & Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/) 
 in the Faculty of Engineering and Environment at [Northumbria University](https://www.northumbria.ac.uk/). I also have an 
 [official university web page](https://www.northumbria.ac.uk/about-us/our-staff/v/dr-paul-vickers/).
 
