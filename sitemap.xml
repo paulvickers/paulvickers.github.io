@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://paulvickers.github.io/DSSon/</loc>
+<lastmod>2017-10-05T10:58:44+01:00</lastmod>
+</url>
+<url>
 <loc>https://paulvickers.github.io/SoNSTAR/</loc>
-<lastmod>2017-10-03T16:27:22+01:00</lastmod>
+<lastmod>2017-10-05T10:58:44+01:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/SoniFRED/</loc>
-<lastmod>2017-10-03T16:27:22+01:00</lastmod>
+<lastmod>2017-10-05T10:58:44+01:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/alchemical_sensing/</loc>
-<lastmod>2017-10-03T16:27:22+01:00</lastmod>
+<lastmod>2017-10-05T10:58:44+01:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/socs/</loc>
-<lastmod>2017-10-03T16:27:22+01:00</lastmod>
+<lastmod>2017-10-05T10:58:44+01:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/chat/public/sonification-standup/</loc>
@@ -61,7 +65,8 @@
 <lastmod>2017-06-02T00:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>https://paulvickers.github.io/about/</loc>
+<loc>https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/</loc>
+<lastmod>2017-10-05T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/about/</loc>
@@ -98,6 +103,6 @@
 </url>
 <url>
 <loc>https://paulvickers.github.io/images/CEH-LogoCropped.pdf</loc>
-<lastmod>2017-10-03T15:48:03+01:00</lastmod>
+<lastmod>2017-10-03T16:27:56+01:00</lastmod>
 </url>
 </urlset>
