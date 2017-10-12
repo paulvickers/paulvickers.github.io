@@ -20,9 +20,11 @@ Source code, audio examples, etc. for our various [projects](/projects/) can be 
 
 ## Paul Vickers
 
+* [Direct Segmented Sonification](/DSSon/)
+* [SoniFRED](/SoniFRED/)
 * [Alchemical Sensing](/alchemical_sensing/)
 * [socs](/socs/)
-* [SoniFRED](/SoniFRED/)
+
 
 ## Holger Ballweg
 
