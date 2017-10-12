@@ -10,6 +10,7 @@ sidebar:
   - title: "GitHub"
   - text: '<a href="https://github.com/nuson/SOCS">Get this on GitHub</a>'
 ---
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.49844.svg)](https://doi.org/10.5281/zenodo.49844)
 
 Communication networks involve the transmission and reception of large volumes of data. Research indicates that network traffic volumes will continue to increase. These traffic volumes will be unprecedented and the behaviour of global information infrastructures when dealing with these data volumes is unknown. It has been shown that complex systems (including computer networks) exhibit self-organized criticality under certain conditions. Given the possibility in such systems of a sudden and spontaneous system reset the development of techniques to inform system administrators of this behaviour could be beneficial.
 
