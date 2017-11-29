@@ -10,6 +10,7 @@ sidebar:
   - title: "GitHub"
   - text: '<a href="https://github.com/nuson/moson">Get this on GitHub</a>'
 ---
+[![DOI](https://zenodo.org/badge/53403110.svg)](https://zenodo.org/badge/latestdoi/53403110)
 
 moson (micro-organism sonification) is a collection of auditory display tools for the 
 sonification and audification of atomic force microscope data recordings of the micro 
@@ -22,3 +23,8 @@ installation originally commissioned by Artichoke for [Lumiere Durham 2015](http
 
 The sonification tool `BacteriaActivity` is a patch for Max/MSP. The audification tool 
 `Audify` is a Python executable.
+
+## Publications related to this project
+[comment]: <> {% cite Mackenzie:2016 Vickers:2016c %}
+
+{% bibliography --cited %}

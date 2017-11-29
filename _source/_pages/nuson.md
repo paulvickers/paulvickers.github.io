@@ -20,10 +20,10 @@ Source code, audio examples, etc. for our various [projects](/projects/) can be 
 
 ## Paul Vickers
 
-* [Direct Segmented Sonification](/DSSon/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1007784.svg)](https://doi.org/10.5281/zenodo.1007784)
+* [Direct Segmented Sonification](/DSSon/) [![DOI](https://zenodo.org/badge/97126259.svg)](https://zenodo.org/badge/latestdoi/97126259)
 * [SoniFRED](/SoniFRED/)
-* [Alchemical Sensing](/alchemical_sensing/)
-* [socs](/socs/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.49844.svg)](https://doi.org/10.5281/zenodo.49844)
+* [Alchemical Sensing](/alchemical_sensing/) [![DOI](https://zenodo.org/badge/53403110.svg)](https://zenodo.org/badge/latestdoi/53403110)
+* [socs](/socs/) [![DOI](https://zenodo.org/badge/53330697.svg)](https://zenodo.org/badge/latestdoi/53330697)
 
 
 ## Holger Ballweg

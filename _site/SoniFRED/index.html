@@ -68,7 +68,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2017-11-29T15:08:17+00:00">
+  <meta property="article:published_time" content="2017-11-29T17:03:22+00:00">
   
     <link rel="next" href="https://paulvickers.github.io/alchemical_sensing/" title="Alchemical Sensing">
   
@@ -241,7 +241,143 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>Details coming soon…</p>
+        <script type="text/javascript" async="" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<h2 id="background">Background</h2>
+<p>The Functional Readaptive Exercise Device (FRED) is an exercise
+machine for physiotherapautic use, with the specific goal of recruiting of the key
+spinal and abdominal muscles <em>lumbar multifidus</em> (LM) and <em>transversus
+abdominis</em> (TrA) which are implicated in lower back pain. FRED is a modified
+cross-trainer offering minimal resistance  which results in
+an unstable base of support for the user: when the front foot reaches the forward-most
+position in its elliptical path gravity then pulls it downward requiring a compensatory
+balancing force to be applied by the rear foot to control the descent. Adopting an
+upright posture, the aim is to operate FRED in a smooth, controlled manner with the
+minimum variation in speed as possible.</p>
+
+<p><img src="/images/FREDdevice.jpg" alt="image-left" class="align-left" /></p>
+
+<p>The device has two main sensors which are used to measure user performance: one to
+detect each time the wheel completes a rotation (called ‘top wheel’) and another to
+detect when the wheel moves 1/1000th of its circumference (the ‘tick sensor’). With
+these, the movement speed and the wheel’s exact position can be determined very
+precisely. The pulse stream from the sensors is sampled at 4 kHz into LabChart
+The data is converted to  frequency values (i.e., revolutions per
+second) for ease of display for the user (a patient). The resultant data stream is then
+smoothed using a triangular Bartlett filter. The feedback given to the user is the
+LabChart output of the tick sensor smoothed with a Bartlett window to remove the steps
+in the data.</p>
+
+<p><img src="/images/LiveSession.jpg" alt="image-left" class="align-left" /></p>
+
+<p>The display shows the
+optimal performance zone (the white area) which, for the FRED
+configuration used here, is a speed of 0.4 Hz <script type="math/tex">\pm</script> 2.0 Hz. The user is instructed to
+try to keep the plot line inside the white area. Previous work has determined that
+maintaining a speed of 0.2 Hz <script type="math/tex">\leqslant</script> <em>f</em> <script type="math/tex">\leqslant</script> $0.6 Hz leads to recruitment of the
+LM and TrA muscles thus producing therapeutic benefit, with optimal benefit occurring at
+<em>f</em> = 0.4 Hz.</p>
+
+<p>The user can see how they are doing at a granular level, as
+the display updates at 20 Hz (every 50 ms). For non-expert users, the plot line varies a
+lot as each step is uneven due to the unconventional movement style required
+for smooth operation of FRED  —  users must shift weight to the rear heel to balance
+out the gravity-assisted forward step. If a user were able to operate FRED perfectly
+there would be speed variation and the plot would show a flat line at 0.4 Hz. Therefore,
+a curve such as shown in the figure is generated.</p>
+
+<h2 id="requirements">Requirements</h2>
+<p>Discussions were held with physiotherapists from Northumbria
+<a href="http://www.aerospacemed.rehab/">University’s Aerospace Medicine and Rehabilitation Laboratory</a>
+ in which FRED is being developed.
+They stated that they would like to consider alternatives to the LabChart feedback for
+two reasons. First, not every patient is able to use the graphical plot due to poor
+visual acuity or visual fatigue caused by the close attention that needs to be paid to
+the display. Secondly, in order to keep track of the patient’s performance the
+supervising therapist must always attend to the visual display. It was felt that
+auditory feedback would allow the therapist to monitor patient performance while
+simultaneously making notes or  attending to other matters. Furthermore, the human
+auditory system’s ability to discriminate between multiple parallel audio signals raises
+the possibility of providing feedback to other performance variables in addition to the
+base speed.</p>
+
+<p>The physiotherapists said that there are several performance events that are of interest
+during an exercise session based on the raw speed variable. First, if a patient exceeds
+0.6 Hz at any time this indicates a loss of control as they are failing to control the
+downward descent of the front foot. If the speed goes below 0.2 Hz  this may also
+indicates a loss of control as it could denote a cessation of movement (typically caused
+by a loss of proper balance with the rear foot placing too much pressure on the foot
+plate). If there is a single drop below 0.2 Hz followed by a quick recovery, this is
+treated as a good recovery of control, but a number of drops below 0.2 Hz signals a
+problem in performance.</p>
+
+<p>Finally, the target range of 0.2 Hz <script type="math/tex">\leqslant</script> <em>f</em> <script type="math/tex">\leqslant</script> 0.6 Hz means that a patient
+can display variability in average speed while still maintaining acceptable performance
+(the line stays in the white area). As a user becomes more experienced and is able to
+maintain greater control, the curve becomes flatter with less pronounced peaks and
+troughs.  Therefore, for each patient, the physiotherapist additionally determines a 
+maximum deviation from the individual mean as a target range based upon their assessment
+of the patient’s current ability and any physical characteristics that might impact upon
+how well they are able to use FRED. For example, a novice might expect to reach a
+standard target deviation of 0.15 Hz while someone who is able to keep within the range
+of, say, 0.35 Hz <script type="math/tex">\leqslant</script> <em>f</em> <script type="math/tex">\leqslant</script> 0.45 Hz would have a target deviation of  0.05
+Hz. Once the therapist has determined a patient’s target deviation it is interesting to
+know at what points they fail to achieve it.</p>
+
+<p>Therefore, it was agreed to sonify the FRED data by providing feedback on the user’s
+instantaneous walking speed, their variability, and each time they exceed 0.6 Hz or drop
+below 0.2 Hz.</p>
+
+<p>We have built two different sonifications which are currently undergoing evaluation, but
+you can get a glimpse of what we were doing <a href="https://vimeo.com/219668024">in this video</a>.</p>
+
+<p>This project is linked to the <a href="/DSSon/">DSSon</a> project.</p>
+
+<h2 id="publications-related-to-this-project">Publications related to this project</h2>
+<p>A journal article is currently undergoing peer review.</p>
+
+<ol class="bibliography" reversed=""><li><span id="nuson-SoniFRED">Vickers, P., &amp; Ballweg, H. (2017, July). <b>nuson-SoniFRED: Sonification of the Functional Readaptive Exercise Device</b>.</span>
+<div class="row">
+<div class="col-md-2">
+		<div class="btn-group">
+			<button type="button" class="btn btn-info btn-xs dropdown-toggle" data-toggle="dropdown">
+				Bib Entry
+				<span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu dropdown-menu-left" role="menu">
+				<li><pre>@misc{nuson-SoniFRED,
+  author = {Vickers, Paul and Ballweg, Holger},
+  date-added = {2017-10-17 16:25:08 +0000},
+  date-modified = {2017-10-17 16:31:13 +0000},
+  github = {https://github.com/nuson/SoniFRED},
+  keywords = {webrefs, repos},
+  month = jul,
+  title = {nuson-{SoniFRED}: Sonification of the {F}unctional {R}eadaptive {E}xercise {D}evice},
+  url = {https://github.com/nuson/SoniFRED},
+  year = {2017},
+  bdsk-url-1 = {https://doi.org/10.5281/zenodo.47303}
+}
+</pre></li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-7">
+			
+			
+			
+			
+			
+				<a role="button" class="btn btn-info btn-xs" href="https://github.com/nuson/SoniFRED" target="_blank">github</a>
+			
+			
+			
+			
+	</div>
+	<br /><br />
+</div>
+
+</li></ol>
 
         
       </section>
@@ -254,7 +390,7 @@
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-11-29T15:08:17+00:00">November 29, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-11-29T17:03:22+00:00">November 29, 2017</time></p>
         
       </footer>
 
