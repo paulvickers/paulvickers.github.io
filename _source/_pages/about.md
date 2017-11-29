@@ -32,7 +32,7 @@ I am also a board member of the [International Community for Auditory Display](h
 <dl>
 <dd>Dept. of Computer & Information Sciences</dd>
 <dd>Northumbria University</dd>
-<dd>Pandon Building, Camden Street</dd>
-<dd>Newcastle-upon-Tyne, NE2 1XE</dd>
+<dd>Ellison Building, Ellison Place</dd>
+<dd>Newcastle-upon-Tyne, NE1 8ST</dd>
 <dd>United Kingdom</dd>
 </dl>
