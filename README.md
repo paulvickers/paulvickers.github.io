@@ -14,8 +14,8 @@ To build for deployment
     bundle exec jekyll build --config _config.yml
     
 ### Use the makefile
- 1.    `make test`
- 1.     `make build`
+ 1. `make test`
+ 1. `make build`
     
 To commit and deploy to GitHub
 
