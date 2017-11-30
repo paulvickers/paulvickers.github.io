@@ -284,6 +284,6 @@ scholar:
   details_layout: bibtex.html
   details_link:   Details
   bibliography_list_attributes: {reversed}
-  bibliography_list_tag: ol
+  bibliography_list_tag: ul
 
   query: "@*[keywords ^= webrefs]"
