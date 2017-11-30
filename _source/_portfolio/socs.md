@@ -30,7 +30,7 @@ Source code for the Pure Data patch and example sonifications can be found in th
 [project's repository](https://zenodo.org/badge/latestdoi/53330697).
 
 ## Publications related to this project
-[comment]: <> {% cite Fairfax:2014 Vickers:2014a Laing:2015a Vickers:2017a Vickers:nuson-SOCS %}
+[comment]: <> {% cite Fairfax:2014 Vickers:2014a Laing:2015a Vickers:2017a nuson-SOCS %}
 
 {% bibliography --cited %}
 

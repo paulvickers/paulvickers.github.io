@@ -28,6 +28,6 @@ This project is linked to the [SoniFRED]({{ '/SoniFRED/' }}) project.
 ## Publications related to this project
 A journal article is currently undergoing peer review.
 
-[comment]: <> {% cite Vickers:nuson-DSSon %}
+[comment]: <> {% cite nuson-DSSon %}
 
 {% bibliography --cited %}

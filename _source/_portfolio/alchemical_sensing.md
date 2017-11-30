@@ -25,6 +25,6 @@ The sonification tool `BacteriaActivity` is a patch for Max/MSP. The audificatio
 `Audify` is a Python executable.
 
 ## Publications related to this project
-[comment]: <> {% cite Mackenzie:2016 Vickers:2016c %}
+[comment]: <> {% cite Mackenzie:2016 nuson-moson %}
 
 {% bibliography --cited %}

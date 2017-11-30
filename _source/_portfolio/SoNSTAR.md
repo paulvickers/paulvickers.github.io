@@ -47,6 +47,6 @@ continuously look at a computer screen.
 ## Publications related to this project
 A couple of journal articles are currently undergoing peer review.
 
-[comment]: <> {% cite Vickers:nuson-SoNSTAR  %}
+[comment]: <> {% cite nuson-SoNSTAR  %}
 
 {% bibliography --cited %}

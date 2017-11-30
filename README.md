@@ -2,22 +2,20 @@
 
 ## Paul Vickers
 
+
+### Build and test manually
 To build and test locally:
    
-    jekyll build --config _config.dev.yml
-    jekyll serve
-    
-If that doesn't work:
-
-	bundle exec jekyll build --config _config.dev.yml
+    bundle exec jekyll build --config _config.dev.yml
+    bundle exec jekyll serve
     
 To build for deployment
 
-    jekyll build
+    bundle exec jekyll build --config _config.yml
     
-or
-
-	bundle exec jekyll build
+### Use the makefile
+ 1.    `make test`
+ 1.     `make build`
     
 To commit and deploy to GitHub
 

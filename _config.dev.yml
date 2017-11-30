@@ -193,7 +193,7 @@ timezone: "Europe/London" # http://en.wikipedia.org/wiki/List_of_tz_database_tim
 
 
 # Plugins
-gems:
+plugins:
   - jekyll/scholar
   - jekyll-paginate
   - jekyll-sitemap
@@ -254,6 +254,7 @@ compress_html:
 scholar:
   style: apa-nvv.csl
   locale: en
+  bibtex_skip_fields: [keywords, github, abstract,  month_numeric, annote, bdsk-file-1, bdsk-file-2, bdsk-url-1, bdsk-url-2, date-added, date-modified]
 
   sort_by: year,type
   order: descending
