@@ -26,7 +26,7 @@ found in the [project's repository](https://zenodo.org/badge/latestdoi/97126259)
 This project is linked to the [SoniFRED]({{ '/SoniFRED/' }}) project.
 
 ## Publications related to this project
-A journal article is currently undergoing peer review, but the preprint can be accessed on arXiv (see below).
+A journal article is currently undergoing peer review, but a preprint can be accessed on arXiv (see below).
 
 [comment]: <> {% cite Vickers:2018 nuson-DSSon %}
 
