@@ -255,12 +255,15 @@ scholar:
   style: apa-nvv.csl
   locale: en
   bibtex_skip_fields: [keywords, github, abstract,  month_numeric, annote, bdsk-file-1, bdsk-file-2, bdsk-url-1, bdsk-url-2, date-added, date-modified]
-
-  sort_by: year,type
-  order: descending
-  type_order: [article]
+  type_aliases: { incollection: inbook }
+  type_names: { article: Articles, inproceedings: 'Conference Papers', inbook: 'Book Chapters', misc: 'Repositories, Patent Applications, etc.'}
+  #type_order: [article,inbook,incollection,inproceedings,misc]
+  #type_order: [misc,inproceedings,incollection,inbook,article]
+  #sort_by: year,type
+  #order: descending
+  type_order: [misc,techreport, thesis, book, inbook, inproceedings,  article]
   
-  group_by: none
+  group_by: year,type
   group_order: descending
   
 
@@ -282,6 +285,6 @@ scholar:
   details_layout: bibtex.html
   details_link:   Details
   bibliography_list_attributes: {reversed}
-  bibliography_list_tag: ol
+  bibliography_list_tag: ul
 
   query: "@*[keywords ^= webrefs]"
