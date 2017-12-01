@@ -1,4 +1,4 @@
-.PHONY: test build
+.PHONY: test build serve
 
 test :
 	bundle exec jekyll build --config _config.dev.yml
@@ -6,3 +6,6 @@ test :
        
 build :
 	bundle exec jekyll build --config _config.yml
+	
+serve:
+	bundle exec jekyll serve --config _config.dev.yml
