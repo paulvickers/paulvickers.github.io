@@ -10,6 +10,7 @@ sidebar:
   - title: "GitHub"
   - text: '<a href="https://github.com/nuson/SoNSTAR">Get this on GitHub</a>'
 ---
+[![DOI](https://zenodo.org/badge/78205837.svg)](https://zenodo.org/badge/latestdoi/78205837)
 
 Maintaining situational awareness of what is happening within a computer network is
 challenging, not least because the behaviour  happens within computers and
@@ -42,6 +43,8 @@ loudness of the different sounds within the soundscape allows the network admini
 to monitor the network and recognise anomalous behaviour quickly and without having to
 continuously look at a computer screen.
 
+Although the work is currently undergoing peer review, some example sonifications can be 
+found in the [project's repository](https://zenodo.org/badge/latestdoi/78205837).
 
 
 ## Publications related to this project
