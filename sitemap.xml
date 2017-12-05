@@ -2,23 +2,23 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://paulvickers.github.io/DSSon/</loc>
-<lastmod>2017-12-04T11:37:26+00:00</lastmod>
+<lastmod>2017-12-05T14:06:38+00:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/SoNSTAR/</loc>
-<lastmod>2017-12-04T11:37:26+00:00</lastmod>
+<lastmod>2017-12-05T14:06:38+00:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/SoniFRED/</loc>
-<lastmod>2017-12-04T11:37:26+00:00</lastmod>
+<lastmod>2017-12-05T14:06:38+00:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/alchemical_sensing/</loc>
-<lastmod>2017-12-04T11:37:26+00:00</lastmod>
+<lastmod>2017-12-05T14:06:38+00:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/socs/</loc>
-<lastmod>2017-12-04T11:37:26+00:00</lastmod>
+<lastmod>2017-12-05T14:06:38+00:00</lastmod>
 </url>
 <url>
 <loc>https://paulvickers.github.io/chat/public/sonification-standup/</loc>
@@ -73,6 +73,10 @@
 <lastmod>2017-12-01T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>https://paulvickers.github.io/chat/public/Direct-segmented-sonification-preprint/</loc>
+<lastmod>2017-12-05T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>https://paulvickers.github.io/about/</loc>
 </url>
 <url>
@@ -107,6 +111,6 @@
 </url>
 <url>
 <loc>https://paulvickers.github.io/images/CEH-LogoCropped.pdf</loc>
-<lastmod>2017-12-04T09:26:11+00:00</lastmod>
+<lastmod>2017-12-04T11:39:01+00:00</lastmod>
 </url>
 </urlset>
