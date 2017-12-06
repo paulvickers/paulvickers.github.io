@@ -28,7 +28,7 @@ Source code, audio examples, etc. for our various [projects](/projects/) can be 
 
 ## Holger Ballweg
 
-* Sonification of complex biomedical data
+* [Sonification of structural biology](/chison)
 * [Holger's web page](https://uiae.de/)
 
 ## Helen Collard
