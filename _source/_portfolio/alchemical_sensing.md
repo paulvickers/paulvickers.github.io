@@ -27,4 +27,4 @@ The sonification tool `BacteriaActivity` is a patch for Max/MSP. The audificatio
 ## Publications related to this project
 [comment]: <> {% cite Mackenzie:2016 nuson-moson %}
 
-{% bibliography --cited %}
+{% bibliography --cited --group_by none %}

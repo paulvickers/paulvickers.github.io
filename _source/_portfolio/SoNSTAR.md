@@ -52,4 +52,4 @@ A couple of journal articles are currently undergoing peer review.
 
 [comment]: <> {% cite nuson-SoNSTAR  %}
 
-{% bibliography --cited %}
+{% bibliography --cited --group_by none --bibliography_list_tag ul %}

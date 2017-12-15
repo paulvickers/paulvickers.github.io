@@ -109,4 +109,4 @@ A journal article is currently undergoing peer review.
 
 [comment]: <> {% cite nuson-SoniFRED %}
 
-{% bibliography --cited %}
+{% bibliography --cited --group_by none %}

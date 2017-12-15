@@ -31,4 +31,5 @@ As soon as a published version is available it will replace the entry below.
 
 [comment]: <> {% cite Vickers:2018 nuson-DSSon %}
 
-{% bibliography --cited %}
+{% bibliography --cited --group_by none %}
+

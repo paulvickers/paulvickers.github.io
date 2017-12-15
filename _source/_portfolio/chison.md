@@ -32,4 +32,4 @@ A journal article is currently undergoing peer review.
 
 [comment]: <> {% cite Ballweg:2016 %}
 
-{% bibliography --cited %}
+{% bibliography --cited --group_by none %}

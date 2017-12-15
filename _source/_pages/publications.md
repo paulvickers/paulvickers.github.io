@@ -10,7 +10,6 @@ header:
   overlay_filter: rgba(72, 178, 216, 0.3)
 ---
 
-
 {% bibliography %}
 
 
