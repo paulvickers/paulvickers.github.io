@@ -8,6 +8,9 @@
 source:      _source
 destination: _site
 
+# Fix warning:  GitHub Metadata: No GitHub API authentication could be found. Some fields may be missing or have incorrect data.
+github: [metadata]
+
 # Site Settings
 locale                   : "en-GB"
 title                    : "Paul Vickers"
