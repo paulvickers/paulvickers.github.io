@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2017-12-18T09:08:07+00:00</updated><id>https://paulvickers.github.io/</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">graphTPP: A multivariate based method for interactive graph layout and analysis</title><link href="https://paulvickers.github.io/chat/public/graphTPP/" rel="alternate" type="text/html" title="graphTPP: A multivariate based method for interactive graph layout and analysis" /><published>2017-12-18T00:00:00+00:00</published><updated>2017-12-18T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/graphTPP</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/graphTPP/">&lt;p&gt;Graph layout is the process of creating a visual representation of a graph through a
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2017-12-18T09:25:26+00:00</updated><id>https://paulvickers.github.io/</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">graphTPP: A multivariate based method for interactive graph layout and analysis</title><link href="https://paulvickers.github.io/chat/public/graphTPP/" rel="alternate" type="text/html" title="graphTPP: A multivariate based method for interactive graph layout and analysis" /><published>2017-12-18T00:00:00+00:00</published><updated>2017-12-18T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/graphTPP</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/graphTPP/">&lt;p&gt;Graph layout is the process of creating a visual representation of a graph through a
 node-link diagram. Node-attribute graphs have additional data stored on the nodes which
 describe certain properties of the nodes called attributes. Typical force-directed
 representations often produce hairball-like structures that neither aid in understanding
@@ -13,7 +13,48 @@ areas of influence graphs, network security, and citation networks. In each case
 graphTPP was shown to outperform standard force-directed techniques and even other
 dimension reduction methods in terms of clarity of clustered structure in the layout,
 the association between the structure and the attributes and the insights elicited in
-each domain area. A pre-print of the article is available on &lt;a href=&quot;http://arxiv.org/abs/1712.05644&quot;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="graph layout" /><category term="targeted projection pursuit" /><category term="adjacency matrix" /><summary type="html">Graph layout is the process of creating a visual representation of a graph through a node-link diagram. Node-attribute graphs have additional data stored on the nodes which describe certain properties of the nodes called attributes.</summary></entry><entry><title type="html">Sonification for Structural Biology and Structure-based Drug Design</title><link href="https://paulvickers.github.io/chat/public/Sonification-for-Structural-Biology/" rel="alternate" type="text/html" title="Sonification for Structural Biology and Structure-based Drug Design" /><published>2017-12-06T00:00:00+00:00</published><updated>2017-12-06T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/Sonification%20for%20Structural%20Biology</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/Sonification-for-Structural-Biology/">&lt;p&gt;The visualisation of structural biology data can be quite challenging as the datasets
+each domain area. A pre-print of the article is available on &lt;a href=&quot;http://arxiv.org/abs/1712.05644&quot;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;bibliography&quot; reversed=&quot;&quot;&gt;&lt;li&gt;&lt;span id=&quot;Gibson:2018&quot;&gt;Gibson, H., &amp;amp; Vickers, P. (2017). &lt;b&gt;graphTPP: A multivariate based method for interactive graph layout and analysis&lt;/b&gt;. &lt;i&gt;ArXiv Preprint ArXiv:1712.05644&lt;/i&gt;.&lt;/span&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-2&quot;&gt;
+		&lt;div class=&quot;btn-group&quot;&gt;
+			&lt;button type=&quot;button&quot; class=&quot;btn btn-info btn-xs dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;
+				Bib Entry
+				&lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;
+			&lt;/button&gt;
+			&lt;ul class=&quot;dropdown-menu dropdown-menu-left&quot; role=&quot;menu&quot;&gt;
+				&lt;li&gt;&lt;pre&gt;@article{Gibson:2018,
+  author = {Gibson, Helen and Vickers, Paul},
+  journal = {arXiv preprint arXiv:1712.05644},
+  month = dec,
+  pdf = {https://arxiv.org/pdf/1712.05644},
+  title = {graphTPP: A multivariate based method for interactive graph layout and analysis},
+  url = {http://arxiv.org/abs/1712.05644},
+  year = {2017}
+}
+&lt;/pre&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-7&quot;&gt;
+			
+				&lt;a role=&quot;button&quot; class=&quot;btn btn-primary btn-xs&quot; href=&quot;https://arxiv.org/pdf/1712.05644&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;
+			
+			
+			
+			
+			
+			
+			
+				&lt;a role=&quot;button&quot; class=&quot;btn btn-warning btn-xs&quot; href=&quot;http://arxiv.org/abs/1712.05644&quot; target=&quot;_blank&quot;&gt;web&lt;/a&gt;
+			
+			
+	&lt;/div&gt;
+	&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;/li&gt;&lt;/ul&gt;</content><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="graph layout" /><category term="targeted projection pursuit" /><category term="adjacency matrix" /><summary type="html">Graph layout is the process of creating a visual representation of a graph through a node-link diagram. Node-attribute graphs have additional data stored on the nodes which describe certain properties of the nodes called attributes.</summary></entry><entry><title type="html">Sonification for Structural Biology and Structure-based Drug Design</title><link href="https://paulvickers.github.io/chat/public/Sonification-for-Structural-Biology/" rel="alternate" type="text/html" title="Sonification for Structural Biology and Structure-based Drug Design" /><published>2017-12-06T00:00:00+00:00</published><updated>2017-12-06T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/Sonification%20for%20Structural%20Biology</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/Sonification-for-Structural-Biology/">&lt;p&gt;The visualisation of structural biology data can be quite challenging as the datasets
 are complex, in particular the intrinsic dynamics/flexibility. Therefore some
 researchers have looked into the use of sonification for the display of proteins.
  You can find more about the project on the &lt;a href=&quot;/chison&quot;&gt;project page&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="sonification" /><summary type="html">The visualisation of structural biology data can be quite challenging as the datasets are complex, in particular the intrinsic dynamics/flexibility. Therefore some researchers have looked into the use of sonification for the display of proteins.</summary></entry><entry><title type="html">DSSon pre-print</title><link href="https://paulvickers.github.io/chat/public/Direct-segmented-sonification-preprint/" rel="alternate" type="text/html" title="DSSon pre-print" /><published>2017-12-05T00:00:00+00:00</published><updated>2017-12-05T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/Direct-segmented-sonification-preprint</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/Direct-segmented-sonification-preprint/">&lt;p&gt;I have posted a &lt;a href=&quot;http://arxiv.org/abs/1711.11368&quot;&gt;pre-print on arXiv&lt;/a&gt; of the work Robert Höldrich and I developed on
