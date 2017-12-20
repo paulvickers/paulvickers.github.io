@@ -50,6 +50,6 @@ found in the [project's repository](https://zenodo.org/badge/latestdoi/78205837)
 ## Publications related to this project
 A couple of journal articles are currently undergoing peer review.
 
-[comment]: <> {% cite nuson-SoNSTAR Debashi:2018  %}
+[comment]: <> {% cite Debashi:2018 nuson-SoNSTAR %}
 
 {% bibliography --cited --group_by none %}
