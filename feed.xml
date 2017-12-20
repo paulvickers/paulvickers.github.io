@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2017-12-19T16:53:24+00:00</updated><id>https://paulvickers.github.io/</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">graphTPP: A multivariate based method for interactive graph layout and analysis</title><link href="https://paulvickers.github.io/chat/public/graphTPP/" rel="alternate" type="text/html" title="graphTPP: A multivariate based method for interactive graph layout and analysis" /><published>2017-12-18T00:00:00+00:00</published><updated>2017-12-18T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/graphTPP</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/graphTPP/">&lt;p&gt;Graph layout is the process of creating a visual representation of a graph through a
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2017-12-20T11:31:06+00:00</updated><id>https://paulvickers.github.io/</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">Sonification of Network Traffic Flow for Monitoring and Situational Awareness</title><link href="https://paulvickers.github.io/chat/public/SoNSTAR/" rel="alternate" type="text/html" title="Sonification of Network Traffic Flow for Monitoring and Situational Awareness" /><published>2017-12-20T00:00:00+00:00</published><updated>2017-12-20T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/SoNSTAR</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/SoNSTAR/">&lt;p&gt;Maintaining situational awareness of what is happening within a computer network is
+challenging, not least because the behaviour happens within computers and communications
+networks, but also because data traffic speeds and volumes are beyond human ability to
+process. Visualisation techniques are widely used to present information about the
+dynamics of network traffic dynamics. Although they provide operators with an overall
+view and specific information about particular traffic or attacks on the network, they
+often still fail to represent the events in an understandable way. Also, visualisations
+require visual attention and so are not well suited to continuous monitoring scenarios
+in which network administrators must carry out other tasks. Situational awareness is
+critical and essential for decision-making in the domain of computer network monitoring
+where it is vital to be able to identify and recognize network environment
+behaviours.Here we present SoNSTAR (Sonification of Networks for SiTuational AwaReness),
+a real-time sonification system to be used in the monitoring of computer networks to
+support the situational awareness of network administrators. SoNSTAR provides an
+auditory representation of all the TCP/IP protocol traffic within a network based on the
+different traffic flows between between network hosts. SoNSTAR narrows the gap between
+network administrators and the cyber environment so they can more quickly recognise and
+learn about the way the traffic flows within their network behave and change. SoNSTAR
+raises situational awareness levels for computer network defence by allowing operators
+to achieve better understanding and performance while imposing less workload compared to
+visual techniques. SoNSTAR identifyies the features of network traffic flows by
+inspecting the status flags of TCP/IP packet headers. Different combinations of these
+features define particular traffic events and these these events are mapped to recorded
+sounds to generate a soundscape that represents the real-time status of the network
+traffic environment. Listening to the sequence, timing, and loudness of the different
+sounds within the soundscape allows the network administrator to monitor the network and
+recognise anomalous behaviour quickly and without having to continuously look at a
+computer screen.&lt;/p&gt;
+
+&lt;p&gt;A pre-print of the article is &lt;a href=&quot;http://arxiv.org/abs/1712.07029&quot;&gt;available on arXiv&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul class=&quot;bibliography&quot; reversed=&quot;&quot;&gt;&lt;li&gt;&lt;span id=&quot;Debashi:2018&quot;&gt;Debashi, M., &amp;amp; Vickers, P. (2017). &lt;b&gt;Sonification of Network Traffic Flow for Monitoring and Situational Awareness&lt;/b&gt;. &lt;i&gt;ArXiv Preprint ArXiv:1712.07029&lt;/i&gt;, &lt;i&gt;under journal review&lt;/i&gt;.&lt;/span&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-md-2&quot;&gt;
+		&lt;div class=&quot;btn-group&quot;&gt;
+			&lt;button type=&quot;button&quot; class=&quot;btn btn-info btn-xs dropdown-toggle&quot; data-toggle=&quot;dropdown&quot;&gt;
+				Bib Entry
+				&lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;
+			&lt;/button&gt;
+			&lt;ul class=&quot;dropdown-menu dropdown-menu-left&quot; role=&quot;menu&quot;&gt;
+				&lt;li&gt;&lt;pre&gt;@article{Debashi:2018,
+  author = {Debashi, Mohamed and Vickers, Paul},
+  journal = {arXiv preprint arXiv:1712.07029},
+  pdf = {http://arxiv.org/pdf/1712.07029},
+  title = {Sonification of Network Traffic Flow for Monitoring and Situational Awareness},
+  url = {http://arxiv.org/abs/1712.07029},
+  volume = {under journal review},
+  year = {2017}
+}
+&lt;/pre&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;col-md-7&quot;&gt;
+			
+				&lt;a role=&quot;button&quot; class=&quot;btn btn-primary btn-xs&quot; href=&quot;http://arxiv.org/pdf/1712.07029&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;
+			
+			
+			
+			
+			
+			
+			
+				&lt;a role=&quot;button&quot; class=&quot;btn btn-warning btn-xs&quot; href=&quot;http://arxiv.org/abs/1712.07029&quot; target=&quot;_blank&quot;&gt;web&lt;/a&gt;
+			
+			
+	&lt;/div&gt;
+	&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;/li&gt;&lt;/ul&gt;</content><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="sonification" /><category term="network monitoring" /><category term="situational awareness" /><summary type="html">Maintaining situational awareness of what is happening within a computer network is challenging, not least because the behaviour happens within computers and communications networks, but also because data traffic speeds and volumes are beyond human ability to process.</summary></entry><entry><title type="html">graphTPP: A multivariate based method for interactive graph layout and analysis</title><link href="https://paulvickers.github.io/chat/public/graphTPP/" rel="alternate" type="text/html" title="graphTPP: A multivariate based method for interactive graph layout and analysis" /><published>2017-12-18T00:00:00+00:00</published><updated>2017-12-18T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/graphTPP</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/graphTPP/">&lt;p&gt;Graph layout is the process of creating a visual representation of a graph through a
 node-link diagram. Node-attribute graphs have additional data stored on the nodes which
 describe certain properties of the nodes called attributes. Typical force-directed
 representations often produce hairball-like structures that neither aid in understanding
@@ -136,13 +206,4 @@ is frustrating as we want to be able, say, to embed sonification examples in our
 convert audio into video which can be embedded in social media. The tool is called
 &lt;a href=&quot;https://medium.com/@WNYC/socialaudio-e648e8a5f2e9#.xi3wf2nst&quot;&gt;Audiogram&lt;/a&gt; and you can get it from their &lt;a href=&quot;https://github.com/nypublicradio/audiogram&quot;&gt;git repo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/DrPaulVickers/status/822066017283215361&quot;&gt;Here’s a Tweet&lt;/a&gt; with it in action.&lt;/p&gt;</content><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="sonification" /><category term="tools" /><summary type="html">New York Public radio have created an open source tool to convert audio into video which can be embedded in social media.</summary></entry><entry><title type="html">Sonification of protein folding</title><link href="https://paulvickers.github.io/chat/public/sonification-of-protein-folding/" rel="alternate" type="text/html" title="Sonification of protein folding" /><published>2016-10-21T00:00:00+01:00</published><updated>2016-10-21T00:00:00+01:00</updated><id>https://paulvickers.github.io/chat/public/sonification-of-protein-folding</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/sonification-of-protein-folding/">&lt;p&gt;From &lt;a href=&quot;http://www.newsweek.com/new-technique-allows-scientists-listen-proteins-511840&quot;&gt;Newsweek&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Researchers have come up with a bold new method for representing and understanding a protein’s shape: translating it into music.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ordinarily, to show the structure of proteins—found in every cell of every living thing—scientists create visual representations made of loops and folds and sheets.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Read the full story on &lt;a href=&quot;http://www.newsweek.com/new-technique-allows-scientists-listen-proteins-511840&quot;&gt;Newsweek’s site&lt;/a&gt;.&lt;/p&gt;</content><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="sonification" /><category term="embodied computing" /><summary type="html">'Researchers have come up with a bold new method for representing and understanding a protein’s shape: translating it into music.'</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/DrPaulVickers/status/822066017283215361&quot;&gt;Here’s a Tweet&lt;/a&gt; with it in action.&lt;/p&gt;</content><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="sonification" /><category term="tools" /><summary type="html">New York Public radio have created an open source tool to convert audio into video which can be embedded in social media.</summary></entry></feed>
