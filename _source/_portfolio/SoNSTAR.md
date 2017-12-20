@@ -48,7 +48,9 @@ found in the [project's repository](https://zenodo.org/badge/latestdoi/78205837)
 
 
 ## Publications related to this project
-A couple of journal articles are currently undergoing peer review.
+A journal article is currently undergoing peer review, but a preprint can be accessed on
+arXiv (see below). As soon as a published version is available it will replace the entry
+below.
 
 [comment]: <> {% cite Debashi:2018 nuson-SoNSTAR %}
 
