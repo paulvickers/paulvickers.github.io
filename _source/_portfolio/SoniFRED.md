@@ -43,7 +43,7 @@ in the data.
 
 The display shows the
 optimal performance zone (the white area) which, for the FRED
-configuration used here, is a speed of 0.4 Hz $$\pm$$ 2.0 Hz. The user is instructed to
+configuration used here, is a speed of 0.4 Hz $$\pm$$ 0.2 Hz. The user is instructed to
 try to keep the plot line inside the white area. Previous work has determined that
 maintaining a speed of 0.2 Hz $$\leqslant$$ _f_ $$\leqslant$$ $0.6 Hz leads to recruitment of the
 LM and TrA muscles thus producing therapeutic benefit, with optimal benefit occurring at
