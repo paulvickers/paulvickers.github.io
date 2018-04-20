@@ -19,7 +19,7 @@
 
 
 
-<title>DSSon: Direct Segmented Sonification - Paul Vickers</title>
+<title>Sonification of network traffic flow for monitoring and situational awareness - Paul Vickers</title>
 
 
 
@@ -29,22 +29,22 @@
 
 <meta property="og:locale" content="en-GB">
 <meta property="og:site_name" content="Paul Vickers">
-<meta property="og:title" content="DSSon: Direct Segmented Sonification">
+<meta property="og:title" content="Sonification of network traffic flow for monitoring and situational awareness">
 
 
-  <link rel="canonical" href="https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/">
-  <meta property="og:url" content="https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/">
+  <link rel="canonical" href="https://paulvickers.github.io/chat/public/Network-sonification/">
+  <meta property="og:url" content="https://paulvickers.github.io/chat/public/Network-sonification/">
 
 
 
-  <meta property="og:description" content="Robert Höldrich and I have been collaborating on a new sonification technique that picks out regions of interest in a signal while preserving the original temporal regime.">
+  <meta property="og:description" content="Maintaining situational awareness of what is happening within a computer network is challenging, not only because the behaviour happens within machines, but also because data traffic speeds and volumes are beyond human ability to process.">
 
 
 
   <meta name="twitter:site" content="@drpaulvickers">
-  <meta name="twitter:title" content="DSSon: Direct Segmented Sonification">
-  <meta name="twitter:description" content="Robert Höldrich and I have been collaborating on a new sonification technique that picks out regions of interest in a signal while preserving the original temporal regime.">
-  <meta name="twitter:url" content="https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/">
+  <meta name="twitter:title" content="Sonification of network traffic flow for monitoring and situational awareness">
+  <meta name="twitter:description" content="Maintaining situational awareness of what is happening within a computer network is challenging, not only because the behaviour happens within machines, but also because data traffic speeds and volumes are beyond human ability to process.">
+  <meta name="twitter:url" content="https://paulvickers.github.io/chat/public/Network-sonification/">
 
   
     <meta name="twitter:card" content="summary">
@@ -66,12 +66,10 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2017-10-05T00:00:00+01:00">
-  
-    <link rel="next" href="https://paulvickers.github.io/chat/public/Sonification-repositories/" title="Sonification Repositories">
+  <meta property="article:published_time" content="2018-04-20T00:00:00+01:00">
   
   
-    <link rel="prev" href="https://paulvickers.github.io/chat/public/Sonification-of-FRED-exercise/" title="soniFRED: Sonification of Biomechanical Exercise Data">
+    <link rel="prev" href="https://paulvickers.github.io/chat/public/Sonification-of-cancer/" title="Medical Image Sonification for Detecting Cancer">
   
 
 
@@ -259,22 +257,22 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="DSSon: Direct Segmented Sonification">
-    <meta itemprop="description" content="Robert Höldrich and I have been collaborating on a new sonification technique that picks out regions of interest in a signal while preserving the original temporal regime.">
-    <meta itemprop="datePublished" content="October 05, 2017">
+    <meta itemprop="headline" content="Sonification of network traffic flow for monitoring and situational awareness">
+    <meta itemprop="description" content="Maintaining situational awareness of what is happening within a computer network is challenging, not only because the behaviour happens within machines, but also because data traffic speeds and volumes are beyond human ability to process.">
+    <meta itemprop="datePublished" content="April 20, 2018">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">DSSon: Direct Segmented Sonification
+          <h1 class="page__title" itemprop="headline">Sonification of network traffic flow for monitoring and situational awareness
 </h1>
           
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
 
 
   
-	  less than 1 minute read
+	  1 minute read
 	
 </p>
           
@@ -282,16 +280,11 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>Following a research visit I made in the spring of this year to the 
-<a href="http://iem.kug.ac.at/en/institute-of-electronic-music-and-acoustics.html">Institute of Electronic Music and Acoustics</a>
- at the Kunst Uni Graz, <a href="http://iem.kug.ac.at/en/people.html?tx_kugpeople_pi1%5Bperson_nr%5D=50114&amp;cHash=eb4d7486e953326e239071165ea47ccf">Robert Höldrich</a>
- and I have been collaborating on a new sonification technique
-that picks out regions of interest in a signal while preserving the original temporal regime. Called
-Direct Segmented Sonification, it leverages the directness of audification while using
-a modified auditory graphing approach to sonify segments of the original data signal
-while preserving the original temporal regime. Read more on the <a href="/DSSon">DSSon project page</a>. From there you will find a link to the project’s 
-github repository which contains source code and audio examples. A paper on the technique 
-is currently under review.</p>
+        <p>Maintaining situational awareness of what is happening within a computer network is challenging, not only because the behaviour happens within machines, but also because data traffic speeds and volumes are beyond human ability to process. Visualisation techniques are widely used to present information about network traffic dynamics. Although they provide operators with an overall view and specific information about particular traffic or attacks on the network, they often still fail to represent the events in an understandable way. Also, because they require visual attention they are not well suited to continuous monitoring scenarios in which network administrators must carry out other tasks.</p>
+
+<p>As part of his PhD research <a href="https://paulvickers.github.io/SoNSTAR/">Mohamed Debashi</a> has built the SoNSTAR (Sonification of Networks for SiTuational AwaReness) tool. SoNSTAR is a real-time sonification system for monitoring computer networks to support network administrators’ situational awareness. SoNSTAR provides an auditory representation of all the TCP/IP traffic within a network based on the different traffic flows between between network hosts. A user study showed that SoNSTAR raises situational awareness levels by enabling operators to understand network behaviour and with the benefit of lower workload demands (as measured by the NASA TLX method) than visual techniques. SoNSTAR identifies network traffic features by inspecting the status flags of TCP/IP packet headers. Combinations of these features define particular traffic events which are mapped to recorded sounds to generate a soundscape that represents the real-time status of the network traffic environment. The sequence, timing, and loudness of the different sounds allow the network to be monitored and anomalous behaviour to be detected without the need to continuously watch a monitor screen.</p>
+
+<p>You can read the whole story in our <a href="https://doi.org/10.1371/journal.pone.0195948">PLoS One article</a></p>
 
         
       </section>
@@ -313,6 +306,18 @@ is currently under review.</p>
   <p class="page__taxonomy">
     <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
     <span itemprop="keywords">
+    
+      
+      
+      <a href="https://paulvickers.github.io/tags/#cyber-security" class="page__taxonomy-item" rel="tag">cyber security</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://paulvickers.github.io/tags/#network" class="page__taxonomy-item" rel="tag">network</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://paulvickers.github.io/tags/#situation-awareness" class="page__taxonomy-item" rel="tag">situation awareness</a><span class="sep">, </span>
     
       
       
@@ -352,7 +357,7 @@ is currently under review.</p>
 
 
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2017-10-05T00:00:00+01:00">October 05, 2017</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Updated:</strong> <time datetime="2018-04-20T00:00:00+01:00">April 20, 2018</time></p>
         
       </footer>
 
@@ -363,13 +368,13 @@ is currently under review.</p>
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=https://paulvickers.github.io/chat/public/Network-sonification/" class="btn btn--twitter" title="Share on Twitter"><i class="fa fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://paulvickers.github.io/chat/public/Network-sonification/" class="btn btn--facebook" title="Share on Facebook"><i class="fa fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://plus.google.com/share?url=https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
+  <a href="https://plus.google.com/share?url=https://paulvickers.github.io/chat/public/Network-sonification/" class="btn btn--google-plus" title="Share on Google Plus"><i class="fa fa-fw fa-google-plus" aria-hidden="true"></i><span> Google+</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://paulvickers.github.io/chat/public/Direct-Segmented-Sonification/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://paulvickers.github.io/chat/public/Network-sonification/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fa fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -377,12 +382,11 @@ is currently under review.</p>
 
   <nav class="pagination">
     
-      <a href="https://paulvickers.github.io/chat/public/Sonification-of-FRED-exercise/" class="pagination--pager" title="soniFRED: Sonification of Biomechanical Exercise Data
+      <a href="https://paulvickers.github.io/chat/public/Sonification-of-cancer/" class="pagination--pager" title="Medical Image Sonification for Detecting Cancer
 ">Previous</a>
     
     
-      <a href="https://paulvickers.github.io/chat/public/Sonification-repositories/" class="pagination--pager" title="Sonification Repositories
-">Next</a>
+      <a href="#" class="pagination--pager disabled">Next</a>
     
   </nav>
 
@@ -398,32 +402,6 @@ is currently under review.</p>
         <h4 class="page__related-title">You May Also Enjoy</h4>
       
       <div class="grid__wrapper">
-        
-          
-
-
-
-<div class="grid__item">
-  
-    <a href="https://paulvickers.github.io/chat/public/Network-sonification/">
-  
-    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-      
-      <h2 class="archive__item-title" itemprop="headline">Sonification of network traffic flow for monitoring and situational awareness
-</h2>
-      
-        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-
-
-  
-	  1 minute read
-	
-</p>
-      
-      <p class="archive__item-excerpt" itemprop="description">Maintaining situational awareness of what is happening within a computer network is challenging, not only because the behaviour happens within machines, but ...</p>
-    </article>
-  </a>
-</div>
         
           
 
@@ -469,7 +447,7 @@ is currently under review.</p>
 
 
   
-	  1 minute read
+	  2 minute read
 	
 </p>
       
@@ -500,6 +478,32 @@ is currently under review.</p>
 </p>
       
       <p class="archive__item-excerpt" itemprop="description">Graph layout is the process of creating a visual representation of a graph through a node-link diagram. Node-attribute graphs have additional data stored on ...</p>
+    </article>
+  </a>
+</div>
+        
+          
+
+
+
+<div class="grid__item">
+  
+    <a href="https://paulvickers.github.io/chat/public/Sonification-for-Structural-Biology/">
+  
+    <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+      
+      <h2 class="archive__item-title" itemprop="headline">Sonification for Structural Biology and Structure-based Drug Design
+</h2>
+      
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  less than 1 minute read
+	
+</p>
+      
+      <p class="archive__item-excerpt" itemprop="description">The visualisation of structural biology data can be quite challenging as the datasets are complex, in particular the intrinsic dynamics/flexibility. Therefor...</p>
     </article>
   </a>
 </div>
