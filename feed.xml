@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2018-04-20T10:49:25+01:00</updated><id>https://paulvickers.github.io/</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">Sonification of network traffic flow for monitoring and situational awareness</title><link href="https://paulvickers.github.io/chat/public/Network-sonification/" rel="alternate" type="text/html" title="Sonification of network traffic flow for monitoring and situational awareness" /><published>2018-04-20T00:00:00+01:00</published><updated>2018-04-20T00:00:00+01:00</updated><id>https://paulvickers.github.io/chat/public/Network-sonification</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/Network-sonification/">&lt;p&gt;Maintaining situational awareness of what is happening within a computer network is challenging, not only because the behaviour happens within machines, but also because data traffic speeds and volumes are beyond human ability to process. Visualisation techniques are widely used to present information about network traffic dynamics. Although they provide operators with an overall view and specific information about particular traffic or attacks on the network, they often still fail to represent the events in an understandable way. Also, because they require visual attention they are not well suited to continuous monitoring scenarios in which network administrators must carry out other tasks.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2018-04-20T11:13:51+01:00</updated><id>https://paulvickers.github.io/</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">Sonification of network traffic flow for monitoring and situational awareness</title><link href="https://paulvickers.github.io/chat/public/Network-sonification/" rel="alternate" type="text/html" title="Sonification of network traffic flow for monitoring and situational awareness" /><published>2018-04-20T00:00:00+01:00</published><updated>2018-04-20T00:00:00+01:00</updated><id>https://paulvickers.github.io/chat/public/Network-sonification</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/Network-sonification/">&lt;p&gt;Maintaining situational awareness of what is happening within a computer network is challenging, not only because the behaviour happens within machines, but also because data traffic speeds and volumes are beyond human ability to process. Visualisation techniques are widely used to present information about network traffic dynamics. Although they provide operators with an overall view and specific information about particular traffic or attacks on the network, they often still fail to represent the events in an understandable way. Also, because they require visual attention they are not well suited to continuous monitoring scenarios in which network administrators must carry out other tasks.&lt;/p&gt;
 
 &lt;p&gt;As part of his PhD research &lt;a href=&quot;https://paulvickers.github.io/SoNSTAR/&quot;&gt;Mohamed Debashi&lt;/a&gt; has built the SoNSTAR (Sonification of Networks for SiTuational AwaReness) tool. SoNSTAR is a real-time sonification system for monitoring computer networks to support network administrators’ situational awareness. SoNSTAR provides an auditory representation of all the TCP/IP traffic within a network based on the different traffic flows between between network hosts. A user study showed that SoNSTAR raises situational awareness levels by enabling operators to understand network behaviour and with the benefit of lower workload demands (as measured by the NASA TLX method) than visual techniques. SoNSTAR identifies network traffic features by inspecting the status flags of TCP/IP packet headers. Combinations of these features define particular traffic events which are mapped to recorded sounds to generate a soundscape that represents the real-time status of the network traffic environment. The sequence, timing, and loudness of the different sounds allow the network to be monitored and anomalous behaviour to be detected without the need to continuously watch a monitor screen.&lt;/p&gt;
 
@@ -35,7 +35,7 @@ computer screen.&lt;/p&gt;
 &lt;p&gt;A pre-print of the article is &lt;a href=&quot;http://arxiv.org/abs/1712.07029&quot;&gt;available on arXiv&lt;/a&gt;. It is 
 part of the &lt;a href=&quot;/SoNSTAR/&quot;&gt;SoNSTAR&lt;/a&gt; project.&lt;/p&gt;
 
-&lt;ul class=&quot;bibliography&quot; reversed=&quot;&quot;&gt;&lt;li&gt;&lt;span id=&quot;Debashi:2018&quot;&gt;Debashi, M., &amp;amp; Vickers, P. (2018). &lt;b&gt;Sonification of Network Traffic Flow for Monitoring and Situational Awareness&lt;/b&gt;. &lt;i&gt;PLoS One&lt;/i&gt;, &lt;i&gt;In press&lt;/i&gt;.&lt;/span&gt;
+&lt;ul class=&quot;bibliography&quot; reversed=&quot;&quot;&gt;&lt;li&gt;&lt;span id=&quot;Debashi:2018&quot;&gt;Debashi, M., &amp;amp; Vickers, P. (2018). &lt;b&gt;Sonification of Network Traffic Flow for Monitoring and Situational Awareness&lt;/b&gt;. &lt;i&gt;PLoS One&lt;/i&gt;, &lt;i&gt;13&lt;/i&gt;(4), 1–31.&lt;/span&gt;
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;col-md-2&quot;&gt;
 		&lt;div class=&quot;btn-group&quot;&gt;
@@ -48,8 +48,12 @@ part of the &lt;a href=&quot;/SoNSTAR/&quot;&gt;SoNSTAR&lt;/a&gt; project.&lt;/p
   author = {Debashi, Mohamed and Vickers, Paul},
   doi = {10.1371/journal.pone.0195948},
   journal = {PLoS One},
+  month = &quot;19~&quot; # apr,
+  number = {4},
+  pages = {1--31},
+  publisher = {Public Library of Science},
   title = {Sonification of Network Traffic Flow for Monitoring and Situational Awareness},
-  volume = {In press},
+  volume = {13},
   year = {2018}
 }
 &lt;/pre&gt;&lt;/li&gt;
@@ -103,7 +107,6 @@ each domain area. A pre-print of the article is &lt;a href=&quot;http://arxiv.or
   month = dec,
   pdf = {https://arxiv.org/pdf/1712.05644},
   title = {graphTPP: A multivariate based method for interactive graph layout and analysis},
-  url = {http://arxiv.org/abs/1712.05644},
   year = {2017}
 }
 &lt;/pre&gt;&lt;/li&gt;
@@ -119,8 +122,6 @@ each domain area. A pre-print of the article is &lt;a href=&quot;http://arxiv.or
 			
 			
 			
-			
-				&lt;a role=&quot;button&quot; class=&quot;btn btn-warning btn-xs&quot; href=&quot;http://arxiv.org/abs/1712.05644&quot; target=&quot;_blank&quot;&gt;web&lt;/a&gt;
 			
 			
 	&lt;/div&gt;
