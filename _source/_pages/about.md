@@ -26,7 +26,7 @@ I am a computer scientist. I am a chartered engineer. I teach and research in th
 
 I collaborate with computer and network security specialists, with 3D modellers and digital special effects experts, with musicians, with artists, and, of course, with other computer scientists and engineers.
 
-I am also a board member of the [International Community for Auditory Display](http://www.icad.org) 2004-2012, 2015-.
+I also served as a board member of the [International Community for Auditory Display](http://www.icad.org) 2004-2012, 2015-2018.
 
 ---
 <dl>
