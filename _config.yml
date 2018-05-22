@@ -256,7 +256,7 @@ compress_html:
 scholar:
   style: apa-nvv.csl
   locale: en
-  bibtex_skip_fields: [keywords, github, abstract,  month_numeric, annote, bdsk-file-1, bdsk-file-2, bdsk-url-1, bdsk-url-2, date-added, date-modified]
+  bibtex_skip_fields: [keywords, github, abstract,  month_numeric, annote, bdsk-file-1, bdsk-file-2, bdsk-url-1, bdsk-url-2, bdsk-url-3, date-added, date-modified]
   
   type_aliases: { incollection: inbook }
   type_names: { article: Articles, inproceedings: 'Conference Papers', proceedings: 'Conference Proceedings', inbook: 'Book Chapters', misc: 'Repositories, Patent Applications, etc.'}
