@@ -49,6 +49,6 @@ found in the [project's repository](https://zenodo.org/badge/latestdoi/78205837)
 
 ## Publications related to this project
 
-[comment]: <> {% cite Debashi:2018 nuson-SoNSTAR %}
+[comment]: <> {% cite Debashi:2018 Debashi:2018a nuson-SoNSTAR %}
 
 {% bibliography --cited --group_by none %}
