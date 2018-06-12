@@ -1,4 +1,0 @@
-/Users/paulvickers/.rvm/rubies/ruby-2.1.2/bin/ruby extconf.rb
-/Users/paulvickers/.rvm/rubies/ruby-2.1.2/bin/ruby: invalid option -R  (-h will show valid options) (RuntimeError)
-
-extconf failed, exit code 1
