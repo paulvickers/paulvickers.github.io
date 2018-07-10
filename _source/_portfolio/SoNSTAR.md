@@ -43,7 +43,7 @@ loudness of the different sounds within the soundscape allows the network admini
 to monitor the network and recognise anomalous behaviour quickly and without having to
 continuously look at a computer screen.
 
-The work is currently undergoing peer review and some example sonifications can be 
+Further details can be found in the two journal articles below and some example sonifications can be 
 found in the [project's repository](https://zenodo.org/badge/latestdoi/78205837).
 
 
