@@ -26,6 +26,7 @@ On Friday 13th December, the Department of Computer and Information Sciences at 
 
 The workshop will feature the [IKO icosahedral loudspeaker](https://iko.sonible.com/en.html) which generates a stunning 3D sound field. Northumbria University has the only IKO in the UK, so this will be a great opportunity to come and see what IKO can do and the collaborative research opportunities it offers.
 
+<iframe width="480" height="360" src="http://www.youtube.com/embed/khTSr_ZJB5M" frameborder="0"> </iframe>
 
 ## WORKSHOP DESCRIPTION
 
