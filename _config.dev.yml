@@ -62,6 +62,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+   # _workshops
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 
 # SEO Related
@@ -244,6 +252,9 @@ tag_archive:
 
 collections:
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+  workshops:
     output: true
     permalink: /:collection/:path/
 

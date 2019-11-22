@@ -1,0 +1,18 @@
+---
+layout: splash
+title: "Workshops"
+permalink: /workshops/
+author_profile: true
+excerpt: "Some workshops."
+header:
+  overlay_image: workshop.jpeg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: rgba(0, 0, 0, 0.5)
+---
+{% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in site.workshops %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
