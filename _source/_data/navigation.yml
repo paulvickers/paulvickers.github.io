@@ -12,6 +12,8 @@ main:
     url: /workshops/
   - title: "nuson"
     url: /nuson/
+  - title: "IKO"
+    url: /iko/
 
 foo:
   - title: "Research Projects"
