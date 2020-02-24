@@ -16,7 +16,7 @@ IKO is a revolutionary 3D audio speaker designed and built by [Sonible](https://
 Past and forthcoming workshops based around the Northumbria are listed below. If you are interested in running or attending a workshop (either here in Newcastle or elsewhere in the UK) please contact [Paul Vickers](mailto:paul.vickers@northumbria.ac.uk?subject=[IKO Workshop]).
 
 * [Sonification and sonic interaction design for space](http://angelamcarthur.com/soundstack-2019/){:target="_blank"} 8 November, 2019 at SoundStack 2019, Queen Mary University of London.
-* [Shared Perceptual Spaces in the Sciences and the Arts](/sps/){:target="_blank"}, 13 December, 2019, Northumbria University.
+* [Shared Perceptual Spaces in the Sciences and the Arts](/SPS/){:target="_blank"}, 13 December, 2019, Northumbria University.
 
 
 
