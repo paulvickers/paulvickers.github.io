@@ -1,0 +1,7 @@
+bundle exec jekyll build --config _config.yml
+Configuration file: _config.yml
+            Source: _source
+       Destination: _site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+jekyll 3.7.3 | Error:  can't modify frozen String: ""
