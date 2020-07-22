@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "RADICAL: A Radical New Interdisciplinary Space for Sonification."
+title: "RADICAL: A Radical New Interdisciplinary Space for Sonification"
 excerpt: "The RADICAL project is funded by a Leverhulme Trust Research Project Grant."
 permalink: /radical/
 header: 
