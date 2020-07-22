@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Posts"
     url: /year-archive/
+  - title: "RADICAL"
+    url: /radical/
   - title: "Publications"
     url: /publications/
   - title: "Research Projects"
