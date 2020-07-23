@@ -38,10 +38,11 @@ Both positions are fixed term for 36 months and are fully funded by the Leverhul
 ## Project Team
 The project team is:
 
-* Dr Paul Vickers (Northumbria) &mdash; Project Lead and Principal Investigator
-* Dr Bennett Hogg (Newcastle) &mdash; Co-investigator
-* Professor John Bowers (Newcastle) &mdash; Co-investigator
-* Dr Tim Shaw (Newcastle) &mdash; Co-Investigator
+* [Dr Paul Vickers](https://www.northumbria.ac.uk/about-us/our-staff/v/dr-paul-vickers/){:target="_blank"} (Northumbria University) &mdash; Project Lead and Principal Investigator
+* [Dr Bennett Hogg](https://www.ncl.ac.uk/sacs/staff/profile/bennetthogg.html){:target="_blank"} (Newcastle University) &mdash; Co-investigator
+* [Professor John Bowers](https://www.ncl.ac.uk/sacs/staff/profile/johnbowers.html){:target="_blank"} (Newcastle University) &mdash; Co-investigator
+* [Dr Tim Shaw](https://ncl.ac.uk/sacs/staff/profile/timshaw.html){:target="_blank"} (Newcastle University) &mdash; Co-Investigator
+* [Dr Gerriet K. Sharma](https://www.gksh.net/){:target="_blank"} (Berlin) &mdash; Project Consultant (sound design and composition for IKO)
 
 ## Previous publications related to this project
 
