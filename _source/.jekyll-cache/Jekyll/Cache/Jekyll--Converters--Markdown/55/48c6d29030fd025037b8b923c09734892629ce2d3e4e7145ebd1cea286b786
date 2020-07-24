@@ -1,0 +1,61 @@
+I"ã
+<p><img src="/images/chisonUI.jpg" alt="image-left" class="align-right" />The visualisation of structural biology data can be quite challenging as the datasets
+are complex, in particular the intrinsic dynamics/flexibility. Therefore some
+researchers have looked into the use of sonification for the display of proteins.
+Combining sonification and visualisation appears to be well fitted to this problem, but
+at the time of writing there were no plugins available for any of the major molecular
+visualisation applications. Therefore, we set out to develop a sonification plugin for
+one of those applications, released as open-source software, in order to facilitate
+scrutiny and evaluation from as many parties as possible. Our open
+source sonification plugin was developed for UCSF Chimera  in collaboration
+with medicinal chemists and structural biologists. We determined two tasks that we
+deemed were not well represented visually and developed sonifications for them.
+Furthermore, we extended a general-purpose Chimera tool to map attributes of protein
+residues to pitch.</p>
+
+<p>Details can be found in the publications below.</p>
+
+<h2 id="publications-related-to-this-project">Publications related to this project</h2>
+<p>A journal article is currently undergoing peer review.</p>
+
+<ul class="bibliography" reversed=""><li><span id="Ballweg:2016">Ballweg, H., Bronowska, A. K., &amp; Vickers, P. (2016). <b>Interactive Sonification for Structural Biology and Structure-based Drug Design</b>. In T. Hermann, R. Bresin, &amp; J. Yang (Eds.), <i>ISon 2016, 5th Interactive Sonification Workshop</i> (pp. 41â€“47). Bielefeld, Germany: CITEC, Bielefeld University.</span>
+<div class="row">
+<div class="col-md-2">
+		<div class="btn-group">
+			<button type="button" class="btn btn-info btn-xs dropdown-toggle" data-toggle="dropdown">
+				Bib Entry
+				<span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu dropdown-menu-left" role="menu">
+				<li><pre>@inproceedings{Ballweg:2016,
+  address = {Bielefeld, Germany},
+  author = {Ballweg, Holger and Bronowska, Agnieszka K and Vickers, Paul},
+  booktitle = {ISon 2016, 5th Interactive Sonification Workshop},
+  editor = {Hermann, Thomas and Bresin, Roberto and Yang, Jiajun},
+  pages = {41--47},
+  pdf = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Ballweg2016.pdf},
+  publisher = {CITEC, Bielefeld University},
+  title = {Interactive Sonification for Structural Biology and Structure-based Drug Design},
+  year = {2016}
+}
+</pre></li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-7">
+			
+				<a role="button" class="btn btn-primary btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Ballweg2016.pdf" target="_blank">pdf</a>
+			
+			
+			
+			
+			
+			
+			
+			
+	</div>
+	<br /><br />
+</div>
+
+</li></ul>
+:ET

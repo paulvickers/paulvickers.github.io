@@ -1,0 +1,55 @@
+I"�	<p>Graph layout is the process of creating a visual representation of a graph through a
+node-link diagram. Node-attribute graphs have additional data stored on the nodes which
+describe certain properties of the nodes called attributes. Typical force-directed
+representations often produce hairball-like structures that neither aid in understanding
+the graph’s topology nor the relationship to its attributes. The aim of this research
+was to investigate the use of node-attributes for graph layout in order to improve the
+analysis process and to give further insight into the graph over purely topological
+layouts. In this article we present graphTPP, a graph based extension to targeted
+projection pursuit (TPP) — an interactive, linear, dimension reduction technique — as a
+method for graph layout and subsequent further analysis. TPP allows users to control the
+projection and is optimised for clustering. Three case studies were conducted in the
+areas of influence graphs, network security, and citation networks. In each case
+graphTPP was shown to outperform standard force-directed techniques and even other
+dimension reduction methods in terms of clarity of clustered structure in the layout,
+the association between the structure and the attributes and the insights elicited in
+each domain area. A pre-print of the article is <a href="http://arxiv.org/abs/1712.05644">available on arXiv</a>.</p>
+
+<ul class="bibliography" reversed=""><li><span id="Gibson:2018">Gibson, H., &amp; Vickers, P. (2017). <b>graphTPP: A multivariate based method for interactive graph layout and analysis</b>. <i>ArXiv Preprint ArXiv:1712.05644</i>.</span>
+<div class="row">
+<div class="col-md-2">
+		<div class="btn-group">
+			<button type="button" class="btn btn-info btn-xs dropdown-toggle" data-toggle="dropdown">
+				Bib Entry
+				<span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu dropdown-menu-left" role="menu">
+				<li><pre>@article{Gibson:2018,
+  author = {Gibson, Helen and Vickers, Paul},
+  journal = {arXiv preprint arXiv:1712.05644},
+  month = dec,
+  pdf = {https://arxiv.org/pdf/1712.05644},
+  title = {graphTPP: A multivariate based method for interactive graph layout and analysis},
+  year = {2017}
+}
+</pre></li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-7">
+			
+				<a role="button" class="btn btn-primary btn-xs" href="https://arxiv.org/pdf/1712.05644" target="_blank">pdf</a>
+			
+			
+			
+			
+			
+			
+			
+			
+	</div>
+	<br /><br />
+</div>
+
+</li></ul>
+:ET

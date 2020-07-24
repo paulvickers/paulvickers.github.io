@@ -1,0 +1,93 @@
+I"�<p><a href="https://zenodo.org/badge/latestdoi/53403110"><img src="https://zenodo.org/badge/53403110.svg" alt="DOI" /></a></p>
+
+<p>moson (micro-organism sonification) is a collection of auditory display tools for the 
+sonification and audification of atomic force microscope data recordings of the micro 
+organism Dunaliella salina by Richard Thompson at the University of Durham’s Department 
+of Chemistry. The auditory display aspects are part of Louise Mackenzie’s larger <a href="http://www.viralexperiments.co/#!viral-experiment-2/cle2">Microbial 
+Sensing</a> research project.</p>
+
+<p>The auditory displays in moson were featured in Mackenzie’s <a href="http://www.lumiere-festival.com/programme/durham/the-stars-beneath-our-feet/">Stars Beneath our Feet</a> 
+installation originally commissioned by Artichoke for <a href="http://www.lumiere-festival.com/durham-2015/">Lumiere Durham 2015</a>.</p>
+
+<p>The sonification tool <code class="language-plaintext highlighter-rouge">BacteriaActivity</code> is a patch for Max/MSP. The audification tool 
+<code class="language-plaintext highlighter-rouge">Audify</code> is a Python executable.</p>
+
+<h2 id="publications-related-to-this-project">Publications related to this project</h2>
+
+<ul class="bibliography" reversed=""><li><span id="nuson-moson">Vickers, P., &amp; Mackenzie, L. (2016, March). <b>nuson-moson: Micro Organism Sonification</b>.</span>
+<div class="row">
+<div class="col-md-2">
+		<div class="btn-group">
+			<button type="button" class="btn btn-info btn-xs dropdown-toggle" data-toggle="dropdown">
+				Bib Entry
+				<span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu dropdown-menu-left" role="menu">
+				<li><pre>@misc{nuson-moson,
+  author = {Vickers, Paul and Mackenzie, Louise},
+  doi = {10.5281/zenodo.1068285},
+  month = mar,
+  title = {nuson-moson: Micro Organism Sonification},
+  year = {2016}
+}
+</pre></li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-7">
+			
+			
+			
+			
+			
+				<a role="button" class="btn btn-info btn-xs" href="https://github.com/paulvickers/nuson-moson" target="_blank">github</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.1068285" target="_blank">doi</a>
+			
+			
+			
+	</div>
+	<br /><br />
+</div>
+
+</li>
+<li><span id="Mackenzie:2016">Mackenzie, L., Thompson, R., &amp; Vickers, P. (2016). <b>Alchemical Sensing: Creating an Embodied Experience of the Unseen Organism</b>. In <i>Sonic Environments – ACMC2016, Proceedings of the 2016 Conference of the Australasian Computer Music Association</i> (pp. 105–106). Brisbane, Australia: Griffith University.</span>
+<div class="row">
+<div class="col-md-2">
+		<div class="btn-group">
+			<button type="button" class="btn btn-info btn-xs dropdown-toggle" data-toggle="dropdown">
+				Bib Entry
+				<span class="caret"></span>
+			</button>
+			<ul class="dropdown-menu dropdown-menu-left" role="menu">
+				<li><pre>@inproceedings{Mackenzie:2016,
+  address = {Brisbane, Australia},
+  author = {Mackenzie, Louise and Thompson, Richard and Vickers, Paul},
+  booktitle = {Sonic Environments -- ACMC2016, Proceedings of the 2016 Conference of the Australasian Computer Music Association},
+  issn = {2206-5296},
+  month = "10--11~" # jul,
+  organization = {Griffith University},
+  pages = {105--106},
+  title = {Alchemical Sensing: Creating an Embodied Experience of the Unseen Organism},
+  year = {2016}
+}
+</pre></li>
+			</ul>
+		</div>
+	</div>
+	<div class="col-md-7">
+			
+			
+			
+			
+			
+			
+			
+			
+	</div>
+	<br /><br />
+</div>
+
+</li></ul>
+:ET

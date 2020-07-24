@@ -1,0 +1,57 @@
+I"'	<aside class="sidebar__right">
+<nav class="toc">
+    <header><h4 class="nav__title"><i class="fa fa-gears"></i> nuson</h4></header>
+<ul class="toc__menu" id="markdown-toc">
+  <li><a href="#paul-vickers" id="markdown-toc-paul-vickers">Paul Vickers</a></li>
+  <li><a href="#holger-ballweg" id="markdown-toc-holger-ballweg">Holger Ballweg</a></li>
+  <li><a href="#helen-collard" id="markdown-toc-helen-collard">Helen Collard</a></li>
+  <li><a href="#mohamed-debashi" id="markdown-toc-mohamed-debashi">Mohamed Debashi</a></li>
+  <li><a href="#louise-mackenzie" id="markdown-toc-louise-mackenzie">Louise Mackenzie</a></li>
+</ul>
+
+  </nav>
+</aside>
+
+<p>nuson, or the Northumbria University Sonification Network is a group of researchers from 
+across the university who are all working on aspects of sonification and auditory display
+in a range of application areas.</p>
+
+<p>Source code, audio examples, etc. for our various <a href="/projects/">projects</a> can be accessed at 
+<a href="https://github.com/nuson">NUSON’s GitHub site</a>.</p>
+
+<h2 id="paul-vickers">Paul Vickers</h2>
+
+<ul>
+  <li><a href="/DSSon/">Direct Segmented Sonification</a> <a href="https://zenodo.org/badge/latestdoi/97126259"><img src="https://zenodo.org/badge/97126259.svg" alt="DOI" /></a></li>
+  <li><a href="/SoniFRED/">SoniFRED</a></li>
+  <li><a href="/alchemical_sensing/">Alchemical Sensing</a> <a href="https://zenodo.org/badge/latestdoi/53403110"><img src="https://zenodo.org/badge/53403110.svg" alt="DOI" /></a></li>
+  <li><a href="/socs/">socs</a> <a href="https://zenodo.org/badge/latestdoi/53330697"><img src="https://zenodo.org/badge/53330697.svg" alt="DOI" /></a></li>
+</ul>
+
+<h2 id="holger-ballweg">Holger Ballweg</h2>
+
+<ul>
+  <li><a href="/chison">Sonification of structural biology</a></li>
+  <li><a href="https://uiae.de/">Holger’s web page</a></li>
+</ul>
+
+<h2 id="helen-collard">Helen Collard</h2>
+
+<ul>
+  <li>Sonification of breathing during Pranayama</li>
+</ul>
+
+<h2 id="mohamed-debashi">Mohamed Debashi</h2>
+
+<ul>
+  <li><a href="/SoNSTAR">SoNSTAR</a>: Interactive Sonification of Network Traffic to support Cyber Situational Awareness</li>
+</ul>
+
+<h2 id="louise-mackenzie">Louise Mackenzie</h2>
+
+<ul>
+  <li><a href="/alchemical_sensing/">Alchemical Sensing</a></li>
+  <li><a href="http://www.loumackenzie.com/">Louise’s web page</a></li>
+</ul>
+
+:ET

@@ -1,0 +1,11 @@
+I"¶<p>This site provides links to our sonification research project repositories on Github. These repos
+contain source code, data sets, and example sonifications and each has a DOI to make it
+citable. The ones available so far are:</p>
+
+<ol>
+  <li><a href="/DSSon">nuson-DSSon</a></li>
+  <li><a href="/alchemical_sensing/">nuson-moson</a></li>
+  <li><a href="/socs/">nuson-socs</a></li>
+  <li><a href="/SoNSTAR">nuson-SoNSTAR</a></li>
+</ol>
+:ET

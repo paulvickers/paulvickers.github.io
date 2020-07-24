@@ -11,8 +11,8 @@ sidebar:
 <img src='/images/RadicalLogo.svg' width='354'>
 <img src='/images/Leverhulme_Trust_CMYK_blue.svg' width='367'>
 
-
 The RADICAL project is funded by a Leverhulme Trust Research Project Grant (RPG-2020-113).
+<hr>
 
 ## Aim
 The ambitious aim of this three-year project beginning in October, 2020 is to develop a fundamental understanding of the relationship between sonification design and the listener and to stimulate a revitalised agenda for sonification research and practice.
@@ -26,6 +26,8 @@ We will conduct a comprehensive study of sonification making and listening to fo
 
 ## IKO
 A major part of this project is the role of spatialised audio and we will be making much use of Northumbria's [IKO icosahedral loudspeaker](https://paulvickers.github.io/iko/).
+
+![image-left](/images/IKO_Gerriet_Paul.jpg){: .align-left}
 
 ## Recruiting
 We will shortly be advertising for two post doctoral research positions for this project. One researher will be based at Northumbria University and will have a major focus on the design and implementation of sonifications. The other position will be based at Newcastle University  with a focus on technologically-mediated musical or sonic arts practice. 
