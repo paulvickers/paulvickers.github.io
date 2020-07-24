@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(0, 153, 155, 0.5)
 sidebar:
 ---
-![image-left](/images/RadicalLogo.png){: .align-left}
+<img src='/images/RadicalLogo.svg' width='354'>
 ![image-right](/images/Leverhulme_Trust_CMYK_blue.jpg){: .align-right}
 
 
