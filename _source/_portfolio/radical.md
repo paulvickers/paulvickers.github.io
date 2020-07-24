@@ -9,7 +9,7 @@ header:
 sidebar:
 ---
 <img src='/images/RadicalLogo.svg' width='354'>
-![image-right](/images/Leverhulme_Trust_CMYK_blue.jpg){: .align-right}
+<img src='/images/Leverhulme_Trust_CMYK_blue.svg' width='367'>
 
 
 The RADICAL project is funded by a Leverhulme Trust Research Project Grant (RPG-2020-113).
