@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2020-07-24T13:27:07+01:00</updated><id>https://paulvickers.github.io/feed.xml</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">A Radical New Interdisciplinary Space for Sonification</title><link href="https://paulvickers.github.io/chat/public/radical/" rel="alternate" type="text/html" title="A Radical New Interdisciplinary Space for Sonification" /><published>2020-07-22T00:00:00+01:00</published><updated>2020-07-22T00:00:00+01:00</updated><id>https://paulvickers.github.io/chat/public/radical</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/radical/">&lt;h2 id=&quot;radical-a-radical-new-interdisciplinary-space-for-sonification&quot;&gt;RADICAL: A Radical New Interdisciplinary Space for Sonification&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2020-07-28T17:27:42+01:00</updated><id>https://paulvickers.github.io/feed.xml</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Dr Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">A Radical New Interdisciplinary Space for Sonification</title><link href="https://paulvickers.github.io/chat/public/radical/" rel="alternate" type="text/html" title="A Radical New Interdisciplinary Space for Sonification" /><published>2020-07-22T00:00:00+01:00</published><updated>2020-07-22T00:00:00+01:00</updated><id>https://paulvickers.github.io/chat/public/radical</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/radical/">&lt;h2 id=&quot;radical-a-radical-new-interdisciplinary-space-for-sonification&quot;&gt;RADICAL: A Radical New Interdisciplinary Space for Sonification&lt;/h2&gt;
 &lt;p&gt;Department of Computer and Information Sciences
 Northumbria University, Newcastle-upon-Tyne, UK&lt;/p&gt;
 
@@ -141,7 +141,6 @@ part of the &lt;a href=&quot;/SoNSTAR/&quot;&gt;SoNSTAR&lt;/a&gt; project.&lt;/p
 			&lt;ul class=&quot;dropdown-menu dropdown-menu-left&quot; role=&quot;menu&quot;&gt;
 				&lt;li&gt;&lt;pre&gt;@article{Debashi:2018,
   author = {Debashi, Mohamed and Vickers, Paul},
-  doi = {10.1371/journal.pone.0195948},
   journal = {PLoS One},
   month = &quot;19~&quot; # apr,
   number = {4},
@@ -161,8 +160,6 @@ part of the &lt;a href=&quot;/SoNSTAR/&quot;&gt;SoNSTAR&lt;/a&gt; project.&lt;/p
 			
 			
 			
-			
-				&lt;a role=&quot;button&quot; class=&quot;btn btn-warning btn-xs&quot; href=&quot;https://doi.org/10.1371/journal.pone.0195948&quot; target=&quot;_blank&quot;&gt;doi&lt;/a&gt;
 			
 			
 			
