@@ -1,4 +1,4 @@
-I"è<p><a href="https://zenodo.org/badge/latestdoi/53330697"><img src="https://zenodo.org/badge/53330697.svg" alt="DOI" /></a></p>
+I"G<p><a href="https://zenodo.org/badge/latestdoi/53330697"><img src="https://zenodo.org/badge/53330697.svg" alt="DOI" /></a></p>
 
 <p>Communication networks involve the transmission and reception of large volumes of data.
 Research indicates that network traffic volumes will continue to increase. These traffic
@@ -30,7 +30,6 @@ the network administrators of both normal and abnormal network traffic and opera
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Vickers:2017a,
   author = {Vickers, Paul and Laing, Christopher and Fairfax, Tom},
-  doi = {10.1016/j.displa.2016.05.002},
   journal = {Displays},
   month = apr,
   pages = {12--24},
@@ -48,8 +47,6 @@ the network administrators of both normal and abnormal network traffic and opera
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.displa.2016.05.002" target="_blank">doi</a>
 			
 			
 			
@@ -69,7 +66,6 @@ the network administrators of both normal and abnormal network traffic and opera
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@misc{nuson-SOCS,
   author = {Vickers, Paul},
-  doi = {10.5281/zenodo.49844},
   month = apr,
   title = {nuson-{SOCS}: Self-Organized Criticality Sonification},
   year = {2016}
@@ -86,8 +82,6 @@ the network administrators of both normal and abnormal network traffic and opera
 			
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/paulvickers/nuson-SOCS" target="_blank">github</a>
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.49844" target="_blank">doi</a>
 			
 			
 			

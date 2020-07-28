@@ -1,4 +1,4 @@
-I"гд<h2 class="bibliography">2020</h2>
+I"cЧ<h2 class="bibliography">2020</h2>
 <h3 class="bibliography">Book Chapters</h3>
 <ul class="bibliography" reversed=""><li><span id="Vickers:2020">Vickers, P. (2020). <b>Sonifications Sometimes Behave So Strangely</b>. In M. Bull &amp; M. Cobussen (Eds.), <i>Bloomsbury Handbook of Sonic Methodologies</i>. New York: Bloomsbury Academic.</span>
 <div class="row">
@@ -19,7 +19,6 @@
   publisher = {New York: Bloomsbury Academic},
   series = {Bloomsbury Handbooks},
   title = {Sonifications Sometimes Behave So Strangely},
-  url = {https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/},
   year = {2020}
 }
 </pre></li>
@@ -33,8 +32,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/" target="_blank">web</a>
 			
 			
 	</div>
@@ -55,12 +52,10 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Brown:2019,
   author = {Brown, Peter and {RELISH Consortium} and Zhou, Yaoqi},
-  doi = {10.1093/database/baz085},
   journal = {Database},
   month = oct,
   pages = {1--66},
   title = {Large expert-curated database for benchmarking document similarity detection in biomedical literature search},
-  url = {https://academic.oup.com/database/article/doi/10.1093/database/baz085/5608006},
   volume = {2019},
   year = {2019}
 }
@@ -75,10 +70,6 @@
 			
 			
 			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1093/database/baz085" target="_blank">doi</a>
-			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://academic.oup.com/database/article/doi/10.1093/database/baz085/5608006" target="_blank">web</a>
 			
 			
 	</div>
@@ -100,7 +91,6 @@
   address = {Newcastle upon Tyne, UK},
   author = {Vickers, Paul and H\"oldrich, Robert},
   booktitle = {{ICAD} 2019 --- The 25th Meeting of the International Conference on Auditory Display},
-  doi = {10.21785/icad2019.043},
   editor = {Vickers, Paul and Gr{\"o}hn, Matti and Stockman, Tony},
   month = "23--27~" # jun,
   pages = {244--253},
@@ -119,8 +109,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.21785/icad2019.043" target="_blank">doi</a>
 			
 			
 			
@@ -141,7 +129,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@proceedings{Vickers:2019a,
   address = {Newcastle upon Tyne, UK},
-  doi = {10.21785/icad2019.000},
   editor = {Vickers, Paul and Gr{\"o}hn, Matti and Stockman, Tony},
   isbn = {0-9670904-6-6},
   month = "23--27~" # jun,
@@ -160,8 +147,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.21785/icad2019.000" target="_blank">doi</a>
 			
 			
 			
@@ -183,7 +168,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Debashi:2018a,
   author = {Debashi, Mohamed and Vickers, Paul},
-  doi = {10.1109/ACCESS.2018.2847349},
   journal = {IEEE Access},
   month = dec,
   number = {1},
@@ -203,8 +187,6 @@
 			
 			
 			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/ACCESS.2018.2847349" target="_blank">doi</a>
-			
 			
 			
 	</div>
@@ -223,7 +205,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Debashi:2018,
   author = {Debashi, Mohamed and Vickers, Paul},
-  doi = {10.1371/journal.pone.0195948},
   journal = {PLoS One},
   month = "19~" # apr,
   number = {4},
@@ -243,8 +224,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1371/journal.pone.0195948" target="_blank">doi</a>
 			
 			
 			
@@ -340,7 +319,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Vickers:2017b,
   author = {Vickers, Paul and Worrall, David and So, Richard},
-  doi = {10.1016/j.displa.2016.12.001},
   journal = {Displays},
   month = apr,
   pages = {1},
@@ -358,8 +336,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.displa.2016.12.001" target="_blank">doi</a>
 			
 			
 			
@@ -379,7 +355,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Vickers:2017a,
   author = {Vickers, Paul and Laing, Christopher and Fairfax, Tom},
-  doi = {10.1016/j.displa.2016.05.002},
   journal = {Displays},
   month = apr,
   pages = {12--24},
@@ -397,8 +372,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.displa.2016.05.002" target="_blank">doi</a>
 			
 			
 			
@@ -500,7 +473,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@misc{nuson-SoNSTAR,
   author = {Debashi, Mohamed and Vickers, Paul},
-  doi = {10.5281/zenodo.1072535},
   month = jul,
   title = {nuson-{SoNSTAR}: {S}onification of {N}etworks for {SiT}uational Awa{R}eness},
   year = {2017}
@@ -517,8 +489,6 @@
 			
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/nuson/SoNSTAR" target="_blank">github</a>
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.1072535" target="_blank">doi</a>
 			
 			
 			
@@ -573,10 +543,8 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@misc{nuson-DSSon,
   author = {Vickers, Paul and H\"oldrich, Robert},
-  doi = {10.5281/zenodo.1007784},
   month = jul,
   title = {nuson-{DSSon}: Direct Segmented Sonification},
-  url = {https://github.com/nuson/DSSon},
   year = {2017}
 }
 </pre></li>
@@ -591,8 +559,6 @@
 			
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/nuson/DSSon" target="_blank">github</a>
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.1007784" target="_blank">doi</a>
 			
 			
 			
@@ -614,7 +580,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Gibson:2016,
   author = {Gibson, Helen and Vickers, Paul},
-  doi = {10.1016/j.asoc.2016.01.036},
   journal = {Applied Soft Computing},
   month = may,
   pages = {80--92},
@@ -632,8 +597,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.asoc.2016.01.036" target="_blank">doi</a>
 			
 			
 			
@@ -733,7 +696,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@misc{nuson-SOCS,
   author = {Vickers, Paul},
-  doi = {10.5281/zenodo.49844},
   month = apr,
   title = {nuson-{SOCS}: Self-Organized Criticality Sonification},
   year = {2016}
@@ -750,8 +712,6 @@
 			
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/paulvickers/nuson-SOCS" target="_blank">github</a>
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.49844" target="_blank">doi</a>
 			
 			
 			
@@ -771,7 +731,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@misc{nuson-moson,
   author = {Vickers, Paul and Mackenzie, Louise},
-  doi = {10.5281/zenodo.1068285},
   month = mar,
   title = {nuson-moson: Micro Organism Sonification},
   year = {2016}
@@ -788,8 +747,6 @@
 			
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/paulvickers/nuson-moson" target="_blank">github</a>
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.1068285" target="_blank">doi</a>
 			
 			
 			
@@ -883,7 +840,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Horsman:2014,
   author = {Horsman, Graeme and Laing, Christopher and Vickers, Paul},
-  doi = {10.1016/j.dss.2014.01.007},
   issn = {0167-9236},
   journal = {Decision Support Systems},
   pages = {69--78},
@@ -901,8 +857,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.dss.2014.01.007" target="_blank">doi</a>
 			
 			
 			
@@ -1034,7 +988,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Gibson:2013,
   author = {Gibson, Helen and Faith, Joe and Vickers, Paul},
-  doi = {10.1177/1473871612455749},
   journal = {Information Visualization},
   month = jul,
   number = {3--4},
@@ -1054,8 +1007,6 @@
 			
 			
 			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1177/1473871612455749" target="_blank">doi</a>
-			
 			
 			
 	</div>
@@ -1074,7 +1025,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Vickers:2013,
   author = {Vickers, Paul and Faith, Joe and Rossiter, Nick},
-  doi = {10.1109/TVCG.2012.294},
   journal = {{IEEE} Transactions on Visualization and Computer Graphics},
   month = jun,
   number = {6},
@@ -1093,8 +1043,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/TVCG.2012.294" target="_blank">doi</a>
 			
 			
 			
@@ -1121,7 +1069,6 @@
   number = {1},
   publisher = {Leiden University Press},
   title = {Ways of Listening and Modes of Being: Electroacoustic Auditory Display},
-  url = {http://journal.sonicstudies.org/vol02/nr01/a04},
   volume = {2},
   year = {2012}
 }
@@ -1136,8 +1083,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="http://journal.sonicstudies.org/vol02/nr01/a04" target="_blank">web</a>
 			
 			
 	</div>
@@ -1450,7 +1395,6 @@
 			<ul class="dropdown-menu dropdown-menu-left" role="menu">
 				<li><pre>@article{Elbendak:2011,
   author = {Elbendak, Mosa and Vickers, Paul and Rossiter, Nick},
-  doi = {10.1016/j.jss.2011.02.025},
   journal = {Journal of Systems and Software},
   month = jul,
   number = {7},
@@ -1469,8 +1413,6 @@
 			
 			
 			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.jss.2011.02.025" target="_blank">doi</a>
 			
 			
 			
