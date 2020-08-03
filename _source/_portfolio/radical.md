@@ -29,6 +29,11 @@ A major part of this project is the role of spatialised audio and we will be mak
 
 ![image-left](/images/IKO_Gerriet_Paul.jpg){: .align-left}
 
+### At Soundstack 2019
+Paul Vickers talks with Angela McArthur about the IKO at [Soundstack, 2019](http://angelamcarthur.com/soundstack-2019/).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3OD5Sl5tRAs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Recruiting
 We will shortly be advertising for two post doctoral research positions for this project. One researher will be based at Northumbria University and will have a major focus on the design and implementation of sonifications. The other position will be based at Newcastle University  with a focus on technologically-mediated musical or sonic arts practice. 
 
