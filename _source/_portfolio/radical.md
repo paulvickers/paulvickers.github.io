@@ -39,8 +39,8 @@ We will shortly be advertising for two research positions for this project. One 
 
 Both positions are fixed term for 36 months and are fully funded by the Leverhulme Trust.
 
-* Details on the post at Northumbria and how to apply will appear here.
-* Details on the post at Newcastle and how to apply will appear here.
+* To see a full role description and person specification and to apply for the research position focusing on the design and implementation of sonifications at Northumbria University [follow this link](https://www.northumbria.ac.uk/work-for-us/job-vacancies/academic-3241-research-fellow-in-sonification-design-and-aesthetics){:target="_blank"}. **Closing date 13 September, 2020**. 
+* Details on the post at Newcastle and how to apply will appear here shortly.
 
 ## Project Team
 The project team is:
