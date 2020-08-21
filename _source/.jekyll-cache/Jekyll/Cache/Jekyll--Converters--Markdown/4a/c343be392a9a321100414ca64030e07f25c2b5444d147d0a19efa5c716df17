@@ -1,4 +1,4 @@
-I"}S<p><img src="/images/RadicalLogo.svg" width="354" />
+I"çT<p><img src="/images/RadicalLogo.svg" width="354" />
 <img src="/images/Leverhulme_Trust_CMYK_blue.svg" width="367" /></p>
 
 <p>The RADICAL project is funded by a Leverhulme Trust Research Project Grant (RPG-2020-113).</p>
@@ -22,14 +22,14 @@ We will conduct a comprehensive study of sonification making and listening to fo
 <p>Paul Vickers talks with Angela McArthur about the IKO at <a href="http://angelamcarthur.com/soundstack-2019/">Soundstack, 2019</a>.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3OD5Sl5tRAs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<h2 id="recruiting">Recruiting</h2>
-<p>We will shortly be advertising for two research positions for this project. One researher will be based at Northumbria University and will have a major focus on the design and implementation of sonifications. The other position will be based at Newcastle University  with a focus on technologically-mediated musical or sonic arts practice.</p>
+<h2 id="jobs-available-work-with-us">JOBS AVAILABLE: WORK WITH US!</h2>
+<p>We are now recruiting two research positions for this project. One researher will be based at Northumbria University and will have a major focus on the design and implementation of sonifications. The other position will be based at Newcastle University  with a focus on technologically-mediated musical or sonic arts practice.</p>
 
 <p>Both positions are fixed term for 36 months and are fully funded by the Leverhulme Trust.</p>
 
 <ul>
   <li>To see a full role description and person specification and to apply for the research position focusing on the design and implementation of sonifications at Northumbria University <a href="https://www.northumbria.ac.uk/work-for-us/job-vacancies/academic-3241-research-fellow-in-sonification-design-and-aesthetics" target="_blank">follow this link</a>. <strong>Closing date 13 September, 2020</strong>.</li>
-  <li>Details on the post at Newcastle and how to apply will appear here on 19 August.</li>
+  <li>To see a full role description and person specification and to apply for the research position focusing on the ethnographic/auto-ethnographic and/or practice-as-research aspects of the project at Newcastle University <a href="https://jobs.ncl.ac.uk/job/Newcastle-Research-Associate/616004901/" target="_blank">follow this link</a>. <strong>Closing date 20 September, 2020</strong>.</li>
 </ul>
 
 <h2 id="project-team">Project Team</h2>
@@ -45,7 +45,7 @@ We will conduct a comprehensive study of sonification making and listening to fo
 
 <h2 id="previous-publications-related-to-this-project">Previous publications related to this project</h2>
 
-<ul class="bibliography" reversed=""><li><span id="Vickers:2020">Vickers, P. (2020). <b>Sonifications Sometimes Behave So Strangely</b>. In M. Bull &amp; M. Cobussen (Eds.), <i>Bloomsbury Handbook of Sonic Methodologies</i>. New York: Bloomsbury Academic.</span>
+<ul class="bibliography" reversed=""><li><span id="Vickers:2020">Vickers, P. (2020). <b>Sonifications Sometimes Behave So Strangely</b>. In M. Bull &amp; M. Cobussen (Eds.), <i>Bloomsbury Handbook of Sonic Methodologies</i> (pp. 733â€“743). New York: Bloomsbury Academic.</span>
 <div class="row">
 <div class="col-md-2">
 		<div class="btn-group">
@@ -61,6 +61,7 @@ We will conduct a comprehensive study of sonification making and listening to fo
   editor = {Bull, Michael and Cobussen, Marcel},
   isbn = {978--1501338755},
   month = "12~" # dec,
+  pages = {733--743},
   publisher = {New York: Bloomsbury Academic},
   series = {Bloomsbury Handbooks},
   title = {Sonifications Sometimes Behave So Strangely},

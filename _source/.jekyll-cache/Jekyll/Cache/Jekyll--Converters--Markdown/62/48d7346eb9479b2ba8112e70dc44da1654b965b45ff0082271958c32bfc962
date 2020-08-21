@@ -1,6 +1,6 @@
-I"c—<h2 class="bibliography">2020</h2>
+I"‰—<h2 class="bibliography">2020</h2>
 <h3 class="bibliography">Book Chapters</h3>
-<ul class="bibliography" reversed=""><li><span id="Vickers:2020">Vickers, P. (2020). <b>Sonifications Sometimes Behave So Strangely</b>. In M. Bull &amp; M. Cobussen (Eds.), <i>Bloomsbury Handbook of Sonic Methodologies</i>. New York: Bloomsbury Academic.</span>
+<ul class="bibliography" reversed=""><li><span id="Vickers:2020">Vickers, P. (2020). <b>Sonifications Sometimes Behave So Strangely</b>. In M. Bull &amp; M. Cobussen (Eds.), <i>Bloomsbury Handbook of Sonic Methodologies</i> (pp. 733â€“743). New York: Bloomsbury Academic.</span>
 <div class="row">
 <div class="col-md-2">
 		<div class="btn-group">
@@ -16,6 +16,7 @@
   editor = {Bull, Michael and Cobussen, Marcel},
   isbn = {978--1501338755},
   month = "12~" # dec,
+  pages = {733--743},
   publisher = {New York: Bloomsbury Academic},
   series = {Bloomsbury Handbooks},
   title = {Sonifications Sometimes Behave So Strangely},

@@ -34,13 +34,15 @@ Paul Vickers talks with Angela McArthur about the IKO at [Soundstack, 2019](http
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3OD5Sl5tRAs" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Recruiting
-We will shortly be advertising for two research positions for this project. One researher will be based at Northumbria University and will have a major focus on the design and implementation of sonifications. The other position will be based at Newcastle University  with a focus on technologically-mediated musical or sonic arts practice. 
+## JOBS AVAILABLE: WORK WITH US!
+We are now recruiting two research positions for this project. One researher will be based at Northumbria University and will have a major focus on the design and implementation of sonifications. The other position will be based at Newcastle University  with a focus on technologically-mediated musical or sonic arts practice. 
 
 Both positions are fixed term for 36 months and are fully funded by the Leverhulme Trust.
 
 * To see a full role description and person specification and to apply for the research position focusing on the design and implementation of sonifications at Northumbria University [follow this link](https://www.northumbria.ac.uk/work-for-us/job-vacancies/academic-3241-research-fellow-in-sonification-design-and-aesthetics){:target="_blank"}. **Closing date 13 September, 2020**. 
-* Details on the post at Newcastle and how to apply will appear here on 19 August.
+* To see a full role description and person specification and to apply for the research position focusing on the ethnographic/auto-ethnographic and/or practice-as-research aspects of the project at Newcastle University [follow this link](https://jobs.ncl.ac.uk/job/Newcastle-Research-Associate/616004901/){:target="_blank"}. **Closing date 20 September, 2020**.
+
+
 
 ## Project Team
 The project team is:
