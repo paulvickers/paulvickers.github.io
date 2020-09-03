@@ -42,7 +42,11 @@ We are now recruiting two research positions for this project. One researher wil
 
 Both positions are fixed term for 36 months and are fully funded by the Leverhulme Trust.
 
-* To see a full role description and person specification and to apply for the research position focusing on the design and implementation of sonifications at Northumbria University [follow this link](https://www.northumbria.ac.uk/work-for-us/job-vacancies/academic-3241-research-fellow-in-sonification-design-and-aesthetics){:target="_blank"}. **Closing date 13 September, 2020**. 
+* To see a full role description and person specification and to apply for the research position focusing on the design and implementation of sonifications at Northumbria University [follow this link](https://www.northumbria.ac.uk/work-for-us/job-vacancies/academic-3241-research-fellow-in-sonification-design-and-aesthetics){:target="_blank"}. **Closing date 13 September, 2020**.
+ 
+[PLEASE NOTE](#link){: .btn .btn--warning} There is a temporary technical issue which is currently preventing the submission of applications at Northumbria. This is being investigated but in the meantime, any interested candidate should email [Paul Vickers](mailto:paul.vickers@northumbria.ac.uk?subject=RADICAL Research Fellow) so that we have a record of your intention to apply.
+{: .notice--warning}
+
 * To see a full role description and person specification and to apply for the research position focusing on the ethnographic/auto-ethnographic and/or practice-as-research aspects of the project at Newcastle University [follow this link](https://jobs.ncl.ac.uk/job/Newcastle-Research-Associate/616004901/){:target="_blank"}. **Closing date 20 September, 2020**.
 
 
