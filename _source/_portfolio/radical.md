@@ -42,12 +42,14 @@ We are now recruiting two research positions for this project. One researher wil
 
 Both positions are fixed term for 36 months and are fully funded by the Leverhulme Trust.
 
-* To see a full role description and person specification and to apply for the research position focusing on the design and implementation of sonifications at Northumbria University [follow this link](https://www.northumbria.ac.uk/work-for-us/job-vacancies/academic-3241-research-fellow-in-sonification-design-and-aesthetics){:target="_blank"}. **Closing date 13 September, 2020**.
- 
-[PLEASE NOTE](#link){: .btn .btn--warning} Northumbria University's  recruitment portal remains unavailable. If you wish to apply for the post at Northumbria, or if you have applied for it already but have not heard anything from us please e-mail [hr.jobs@northumbria.ac.uk](mailto:hr.jobs@northumbria.ac.uk?subject=EAE/19/3241: Research Fellow in Sonification Design and Aesthetics) using the vacancy reference number 'EAE/19/3241' as the subject.
-{: .notice--warning}
+### The Northumbria University Post
+To see a full role description and person specification for the research position focusing on the design and implementation of sonifications at Northumbria University [follow this link](https://www.jobs.ac.uk/job/CBO601/research-fellow-in-sonification-design-and-aesthetics){:target="_blank"}.  **Closing date 20 September, 2020**.
 
-* To see a full role description and person specification and to apply for the research position focusing on the ethnographic/auto-ethnographic and/or practice-as-research aspects of the project at Newcastle University [follow this link](https://jobs.ncl.ac.uk/job/Newcastle-Research-Associate/616004901/){:target="_blank"}. **Closing date 20 September, 2020**.
+[TO APPLY](#link){: .btn .btn--warning} Northumbria University's recruitment portal remains unavailable. To apply for the post at Northumbria, or if you have applied for it already but have not heard anything from us please e-mail your CV, covering letter, and any other supporting documents to [hr.jobs@northumbria.ac.uk](mailto:hr.jobs@northumbria.ac.uk?subject=EAE/19/3241: Research Fellow in Sonification Design and Aesthetics) using the vacancy reference number 'EAE/19/3241' as the subject.
+{: .notice--warning}
+ 
+### The Newcastle University Post
+To see a full role description and person specification and to apply for the research position focusing on the ethnographic/auto-ethnographic and/or practice-as-research aspects of the project at Newcastle University [follow this link](https://jobs.ncl.ac.uk/job/Newcastle-Research-Associate/616004901/){:target="_blank"}. **Closing date 20 September, 2020**.
 
 
 
