@@ -43,7 +43,7 @@ We are now recruiting two research positions for this project. One researher wil
 Both positions are fixed term for 36 months and are fully funded by the Leverhulme Trust.
 
 ### The Northumbria University Post
-To see a full role description and person specification for the research position focusing on the design and implementation of sonifications at Northumbria University [follow this link](https://www.jobs.ac.uk/job/CBO601/research-fellow-in-sonification-design-and-aesthetics){:target="_blank"}.  **Closing date 20 September, 2020**.
+The full role description and person specification can be [downloaded here](/assets/files/RoleDescriptionTemplate.pdf){:target="_blank"}.  **Closing date 20 September, 2020**.
 
 [TO APPLY](#link){: .btn .btn--warning} Northumbria University's recruitment portal remains unavailable. To apply for the post at Northumbria, or if you have applied for it already but have not heard anything from us please e-mail your CV, covering letter, and any other supporting documents to [hr.jobs@northumbria.ac.uk](mailto:hr.jobs@northumbria.ac.uk?subject=EAE/19/3241: Research Fellow in Sonification Design and Aesthetics) using the vacancy reference number 'EAE/19/3241' as the subject.
 {: .notice--warning}
