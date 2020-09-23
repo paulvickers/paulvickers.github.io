@@ -37,19 +37,11 @@ Gerriet K. Sharma talks with Angela McArthur about the IKO at [Soundstack, 2019]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uUTonY1uorU" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## JOBS AVAILABLE: WORK WITH US!
-We are now recruiting two research positions for this project. One researher will be based at Northumbria University and will have a major focus on the design and implementation of sonifications. The other position will be based at Newcastle University  with a focus on technologically-mediated musical or sonic arts practice. 
+## RESEARCH POSITIONS
+Applications are now closed for both research positions and the shortlisting process will commence very soon.
 
-Both positions are fixed term for 36 months and are fully funded by the Leverhulme Trust.
-
-### The Northumbria University Post
-The full role description and person specification can be [downloaded here](/assets/files/RoleDescriptionTemplate.pdf){:target="_blank"}.  **Closing date 20 September, 2020**.
-
-[TO APPLY](#link){: .btn .btn--warning} Northumbria University's recruitment portal remains unavailable. To apply for the post at Northumbria, or if you have applied for it already but have not heard anything from us please e-mail your CV, covering letter, and any other supporting documents to [hr.jobs@northumbria.ac.uk](mailto:hr.jobs@northumbria.ac.uk?subject=EAE/19/3241: Research Fellow in Sonification Design and Aesthetics) using the vacancy reference number 'EAE/19/3241' as the subject.
+[NOTE](#link){: .btn .btn--warning} Due to some problems with Northumbria University's recruitment portal If you applied for the Research Fellow post at Northumbria **before 29 August** please contact [Paul Vickers](mailto:paul.vickers@northumbria.ac.uk?subject=EAE/19/3241: Research Fellow in Sonification Design and Aesthetics).
 {: .notice--warning}
- 
-### The Newcastle University Post
-To see a full role description and person specification and to apply for the research position focusing on the ethnographic/auto-ethnographic and/or practice-as-research aspects of the project at Newcastle University [follow this link](https://jobs.ncl.ac.uk/job/Newcastle-Research-Associate/616004901/){:target="_blank"}. **Closing date 20 September, 2020**.
 
 
 
