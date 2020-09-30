@@ -1,4 +1,5 @@
-I"°	<p>Graph layout is the process of creating a visual representation of a graph through a
+I"æ
+<p>Graph layout is the process of creating a visual representation of a graph through a
 node-link diagram. Node-attribute graphs have additional data stored on the nodes which
 describe certain properties of the nodes called attributes. Typical force-directed
 representations often produce hairball-like structures that neither aid in understanding
@@ -30,7 +31,9 @@ each domain area. A pre-print of the article is <a href="http://arxiv.org/abs/17
   month = dec,
   pdf = {https://arxiv.org/pdf/1712.05644},
   title = {graphTPP: A multivariate based method for interactive graph layout and analysis},
-  year = {2017}
+  year = {2017},
+  url = {http://arxiv.org},
+  doi = {http://arxiv.org/abs/1712.05644}
 }
 </pre></li>
 			</ul>
@@ -45,6 +48,10 @@ each domain area. A pre-print of the article is <a href="http://arxiv.org/abs/17
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://arxiv.org/abs/1712.05644" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://arxiv.org" target="_blank">web</a>
 			
 			
 	</div>

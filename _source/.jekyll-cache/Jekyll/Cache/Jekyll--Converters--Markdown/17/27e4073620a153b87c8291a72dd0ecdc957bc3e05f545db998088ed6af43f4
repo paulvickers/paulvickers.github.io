@@ -1,4 +1,4 @@
-I"G<p><a href="https://zenodo.org/badge/latestdoi/53330697"><img src="https://zenodo.org/badge/53330697.svg" alt="DOI" /></a></p>
+I"«<p><a href="https://zenodo.org/badge/latestdoi/53330697"><img src="https://zenodo.org/badge/53330697.svg" alt="DOI" /></a></p>
 
 <p>Communication networks involve the transmission and reception of large volumes of data.
 Research indicates that network traffic volumes will continue to increase. These traffic
@@ -35,7 +35,8 @@ the network administrators of both normal and abnormal network traffic and opera
   pages = {12--24},
   title = {Sonification of a Network's Self-Organized Criticality for Real-time Situational Awareness},
   volume = {47},
-  year = {2017}
+  year = {2017},
+  url = {https://doi.org/10.1016/j.displa.2016.05.002}
 }
 </pre></li>
 			</ul>
@@ -48,6 +49,8 @@ the network administrators of both normal and abnormal network traffic and opera
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.displa.2016.05.002" target="_blank">web</a>
 			
 			
 	</div>
@@ -68,7 +71,9 @@ the network administrators of both normal and abnormal network traffic and opera
   author = {Vickers, Paul},
   month = apr,
   title = {nuson-{SOCS}: Self-Organized Criticality Sonification},
-  year = {2016}
+  year = {2016},
+  url = {https://doi.org/10.5281/zenodo.47303},
+  doi = {https://github.com/paulvickers/nuson-SOCS}
 }
 </pre></li>
 			</ul>
@@ -83,6 +88,10 @@ the network administrators of both normal and abnormal network traffic and opera
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/paulvickers/nuson-SOCS" target="_blank">github</a>
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://github.com/paulvickers/nuson-SOCS" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.47303" target="_blank">web</a>
 			
 			
 	</div>
@@ -105,7 +114,8 @@ the network administrators of both normal and abnormal network traffic and opera
   booktitle = {International Conference On Cyber Situational Awareness, Data Analytics And Assessment ({CyberSA} 2015)},
   month = "8--9~" # jun,
   title = {Context Informed Intelligent Information Infrastructures for Better Situational Awareness},
-  year = {2015}
+  year = {2015},
+  url = {https://doi.org/10.1109/CyberSA.2015.7166136}
 }
 </pre></li>
 			</ul>
@@ -118,6 +128,8 @@ the network administrators of both normal and abnormal network traffic and opera
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/CyberSA.2015.7166136" target="_blank">web</a>
 			
 			
 	</div>
@@ -143,7 +155,9 @@ the network administrators of both normal and abnormal network traffic and opera
   publisher = {IGI Global},
   series = {Advances in Digital Crime, Forensics, and Cyber Terrorism},
   title = {Network Situational Awareness: Sonification \&amp; Visualization in the Cyber Battlespace},
-  year = {2014}
+  year = {2014},
+  url = {http://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750},
+  doi = {https://doi.org/10.4018/978-1-4666-6324-4}
 }
 </pre></li>
 			</ul>
@@ -156,6 +170,10 @@ the network administrators of both normal and abnormal network traffic and opera
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.4018/978-1-4666-6324-4" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750" target="_blank">web</a>
 			
 			
 	</div>
@@ -178,7 +196,8 @@ the network administrators of both normal and abnormal network traffic and opera
   month = "12~" # sep,
   organization = {University of York},
   title = {Sonification Aesthetics and Listening for Network Situational Awareness},
-  year = {2014}
+  year = {2014},
+  url = {https://doi.org/10.13140/2.1.4225.6648}
 }
 </pre></li>
 			</ul>
@@ -191,6 +210,8 @@ the network administrators of both normal and abnormal network traffic and opera
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.13140/2.1.4225.6648" target="_blank">web</a>
 			
 			
 	</div>

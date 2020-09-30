@@ -1,4 +1,4 @@
-I"‰—<h2 class="bibliography">2020</h2>
+I"Gç<h2 class="bibliography">2020</h2>
 <h3 class="bibliography">Book Chapters</h3>
 <ul class="bibliography" reversed=""><li><span id="Vickers:2020">Vickers, P. (2020). <b>Sonifications Sometimes Behave So Strangely</b>. In M. Bull &amp; M. Cobussen (Eds.), <i>Bloomsbury Handbook of Sonic Methodologies</i> (pp. 733â€“743). New York: Bloomsbury Academic.</span>
 <div class="row">
@@ -20,7 +20,8 @@
   publisher = {New York: Bloomsbury Academic},
   series = {Bloomsbury Handbooks},
   title = {Sonifications Sometimes Behave So Strangely},
-  year = {2020}
+  year = {2020},
+  url = {https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/}
 }
 </pre></li>
 			</ul>
@@ -33,6 +34,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://www.bloomsbury.com/uk/the-bloomsbury-handbook-of-sonic-methodologies-9781501338755/" target="_blank">web</a>
 			
 			
 	</div>
@@ -58,7 +61,9 @@
   pages = {1--66},
   title = {Large expert-curated database for benchmarking document similarity detection in biomedical literature search},
   volume = {2019},
-  year = {2019}
+  year = {2019},
+  url = {https://academic.oup.com/database/article/doi/10.1093/database/baz085/5608006},
+  doi = {https://doi.org/10.1093/database/baz085}
 }
 </pre></li>
 			</ul>
@@ -71,6 +76,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.1093/database/baz085" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://academic.oup.com/database/article/doi/10.1093/database/baz085/5608006" target="_blank">web</a>
 			
 			
 	</div>
@@ -98,7 +107,9 @@
   publisher = {Department of Computer and Information Sciences, Northumbria University},
   read = {0},
   title = {Direct Segmented Sonification of Characteristic Features of the Data Domain},
-  year = {2019}
+  year = {2019},
+  url = {http://arxiv.org/abs/1711.11368},
+  doi = {https://doi.org/10.21785/icad2019.043}
 }
 </pre></li>
 			</ul>
@@ -111,6 +122,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.21785/icad2019.043" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://arxiv.org/abs/1711.11368" target="_blank">web</a>
 			
 			
 	</div>
@@ -136,7 +151,9 @@
   publisher = {Department of Computer and Information Sciences, Northumbria University},
   read = {0},
   title = {{ICAD} 2019 --- The 25th Meeting of the International Conference on Auditory Display},
-  year = {2019}
+  year = {2019},
+  url = {http://arxiv.org/abs/1711.11368},
+  doi = {https://doi.org/10.21785/icad2019.000}
 }
 </pre></li>
 			</ul>
@@ -149,6 +166,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.21785/icad2019.000" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://arxiv.org/abs/1711.11368" target="_blank">web</a>
 			
 			
 	</div>
@@ -175,7 +196,8 @@
   pages = {33826--33839},
   title = {Sonification of Network Traffic for Detecting and Learning About Botnet Behavior},
   volume = {6},
-  year = {2018}
+  year = {2018},
+  url = {https://doi.org/10.1109/ACCESS.2018.2847349}
 }
 </pre></li>
 			</ul>
@@ -188,6 +210,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/ACCESS.2018.2847349" target="_blank">web</a>
 			
 			
 	</div>
@@ -213,7 +237,9 @@
   publisher = {Public Library of Science},
   title = {Sonification of Network Traffic Flow for Monitoring and Situational Awareness},
   volume = {13},
-  year = {2018}
+  year = {2018},
+  url = {http://arxiv.org/abs/1712.07029},
+  doi = {https://doi.org/10.1371/journal.pone.0195948}
 }
 </pre></li>
 			</ul>
@@ -226,6 +252,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.1371/journal.pone.0195948" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://arxiv.org/abs/1712.07029" target="_blank">web</a>
 			
 			
 	</div>
@@ -250,7 +280,8 @@
   month = dec,
   pdf = {https://arxiv.org/pdf/1711.11368},
   title = {Direct Segmented Sonification of Characteristic Features of the Data Domain},
-  year = {2017}
+  year = {2017},
+  url = {http://arxiv.org/abs/1711.11368}
 }
 </pre></li>
 			</ul>
@@ -265,6 +296,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://arxiv.org/abs/1711.11368" target="_blank">web</a>
 			
 			
 	</div>
@@ -287,7 +320,9 @@
   month = dec,
   pdf = {https://arxiv.org/pdf/1712.05644},
   title = {graphTPP: A multivariate based method for interactive graph layout and analysis},
-  year = {2017}
+  year = {2017},
+  url = {http://arxiv.org},
+  doi = {http://arxiv.org/abs/1712.05644}
 }
 </pre></li>
 			</ul>
@@ -302,6 +337,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://arxiv.org/abs/1712.05644" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://arxiv.org" target="_blank">web</a>
 			
 			
 	</div>
@@ -325,7 +364,8 @@
   pages = {1},
   title = {Preface to the Special Issue on Sonification},
   volume = {47},
-  year = {2017}
+  year = {2017},
+  url = {http://dx.doi.org/10.1016/j.displa.2016.12.001}
 }
 </pre></li>
 			</ul>
@@ -338,6 +378,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://dx.doi.org/10.1016/j.displa.2016.12.001" target="_blank">web</a>
 			
 			
 	</div>
@@ -361,7 +403,8 @@
   pages = {12--24},
   title = {Sonification of a Network's Self-Organized Criticality for Real-time Situational Awareness},
   volume = {47},
-  year = {2017}
+  year = {2017},
+  url = {https://doi.org/10.1016/j.displa.2016.05.002}
 }
 </pre></li>
 			</ul>
@@ -374,6 +417,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.displa.2016.05.002" target="_blank">web</a>
 			
 			
 	</div>
@@ -401,7 +446,8 @@
   pdf = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Vickers2017_AAM.pdf},
   publisher = {Routledge},
   title = {Sonification and Music, Music and Sonification},
-  year = {2017}
+  year = {2017},
+  url = {https://www.routledge.com/products/9781138780613}
 }
 </pre></li>
 			</ul>
@@ -416,6 +462,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://www.routledge.com/products/9781138780613" target="_blank">web</a>
 			
 			
 	</div>
@@ -442,7 +490,8 @@
   publisher = {Routledge},
   series = {SEMPRE Studies in The Psychology of Music},
   title = {Aesthetics of sonification: Taking the subject-position},
-  year = {2017}
+  year = {2017},
+  url = {https://www.routledge.com/Body-Sound-and-Space-in-Music-and-Beyond-Multimodal-Explorations/Wollner/p/book/9781472485403}
 }
 </pre></li>
 			</ul>
@@ -455,6 +504,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://www.routledge.com/Body-Sound-and-Space-in-Music-and-Beyond-Multimodal-Explorations/Wollner/p/book/9781472485403" target="_blank">web</a>
 			
 			
 	</div>
@@ -476,7 +527,9 @@
   author = {Debashi, Mohamed and Vickers, Paul},
   month = jul,
   title = {nuson-{SoNSTAR}: {S}onification of {N}etworks for {SiT}uational Awa{R}eness},
-  year = {2017}
+  year = {2017},
+  url = {https://doi.org/10.5281/zenodo.47303},
+  doi = {https://github.com/nuson/SoNSTAR}
 }
 </pre></li>
 			</ul>
@@ -491,6 +544,10 @@
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/nuson/SoNSTAR" target="_blank">github</a>
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://github.com/nuson/SoNSTAR" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.47303" target="_blank">web</a>
 			
 			
 	</div>
@@ -511,7 +568,9 @@
   author = {Vickers, Paul and Ballweg, Holger},
   month = jul,
   title = {nuson-{SoniFRED}: Sonification of the {F}unctional {R}eadaptive {E}xercise {D}evice},
-  year = {2017}
+  year = {2017},
+  url = {https://doi.org/10.5281/zenodo.47303},
+  doi = {https://github.com/nuson/SoniFRED}
 }
 </pre></li>
 			</ul>
@@ -526,6 +585,10 @@
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/nuson/SoniFRED" target="_blank">github</a>
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://github.com/nuson/SoniFRED" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.47303" target="_blank">web</a>
 			
 			
 	</div>
@@ -546,7 +609,9 @@
   author = {Vickers, Paul and H\"oldrich, Robert},
   month = jul,
   title = {nuson-{DSSon}: Direct Segmented Sonification},
-  year = {2017}
+  year = {2017},
+  url = {https://doi.org/10.5281/zenodo.47303},
+  doi = {https://github.com/nuson/DSSon}
 }
 </pre></li>
 			</ul>
@@ -561,6 +626,10 @@
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/nuson/DSSon" target="_blank">github</a>
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://github.com/nuson/DSSon" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.47303" target="_blank">web</a>
 			
 			
 	</div>
@@ -586,7 +655,8 @@
   pages = {80--92},
   title = {Using Adjacency Matrices to Lay Out Larger Small-world Networks},
   volume = {42},
-  year = {2016}
+  year = {2016},
+  url = {https://doi.org/10.1016/j.asoc.2016.01.036}
 }
 </pre></li>
 			</ul>
@@ -599,6 +669,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.asoc.2016.01.036" target="_blank">web</a>
 			
 			
 	</div>
@@ -625,7 +697,8 @@
   pdf = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Ballweg2016.pdf},
   publisher = {CITEC, Bielefeld University},
   title = {Interactive Sonification for Structural Biology and Structure-based Drug Design},
-  year = {2016}
+  year = {2016},
+  url = {http://interactive-sonification.org/ISon2016/}
 }
 </pre></li>
 			</ul>
@@ -640,6 +713,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://interactive-sonification.org/ISon2016/" target="_blank">web</a>
 			
 			
 	</div>
@@ -665,7 +740,8 @@
   organization = {Griffith University},
   pages = {105--106},
   title = {Alchemical Sensing: Creating an Embodied Experience of the Unseen Organism},
-  year = {2016}
+  year = {2016},
+  url = {http://www.sonicenvironments.org/proceedings.html}
 }
 </pre></li>
 			</ul>
@@ -678,6 +754,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.sonicenvironments.org/proceedings.html" target="_blank">web</a>
 			
 			
 	</div>
@@ -699,7 +777,9 @@
   author = {Vickers, Paul},
   month = apr,
   title = {nuson-{SOCS}: Self-Organized Criticality Sonification},
-  year = {2016}
+  year = {2016},
+  url = {https://doi.org/10.5281/zenodo.47303},
+  doi = {https://github.com/paulvickers/nuson-SOCS}
 }
 </pre></li>
 			</ul>
@@ -714,6 +794,10 @@
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/paulvickers/nuson-SOCS" target="_blank">github</a>
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://github.com/paulvickers/nuson-SOCS" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.47303" target="_blank">web</a>
 			
 			
 	</div>
@@ -734,7 +818,9 @@
   author = {Vickers, Paul and Mackenzie, Louise},
   month = mar,
   title = {nuson-moson: Micro Organism Sonification},
-  year = {2016}
+  year = {2016},
+  url = {https://doi.org/10.5281/zenodo.47213},
+  doi = {https://github.com/paulvickers/nuson-moson}
 }
 </pre></li>
 			</ul>
@@ -749,6 +835,10 @@
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/paulvickers/nuson-moson" target="_blank">github</a>
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://github.com/paulvickers/nuson-moson" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.47213" target="_blank">web</a>
 			
 			
 	</div>
@@ -773,7 +863,8 @@
   booktitle = {International Conference On Cyber Situational Awareness, Data Analytics And Assessment ({CyberSA} 2015)},
   month = "8--9~" # jun,
   title = {Context Informed Intelligent Information Infrastructures for Better Situational Awareness},
-  year = {2015}
+  year = {2015},
+  url = {https://doi.org/10.1109/CyberSA.2015.7166136}
 }
 </pre></li>
 			</ul>
@@ -786,6 +877,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/CyberSA.2015.7166136" target="_blank">web</a>
 			
 			
 	</div>
@@ -846,7 +939,8 @@
   pages = {69--78},
   title = {A Case-Based Reasoning Method for Locating Evidence During Digital Forensic Device Triage},
   volume = {61},
-  year = {2014}
+  year = {2014},
+  url = {https://doi.org/10.1016/j.dss.2014.01.007}
 }
 </pre></li>
 			</ul>
@@ -859,6 +953,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.dss.2014.01.007" target="_blank">web</a>
 			
 			
 	</div>
@@ -882,7 +978,8 @@
   month = "12~" # sep,
   organization = {University of York},
   title = {Sonification Aesthetics and Listening for Network Situational Awareness},
-  year = {2014}
+  year = {2014},
+  url = {https://doi.org/10.13140/2.1.4225.6648}
 }
 </pre></li>
 			</ul>
@@ -895,6 +992,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.13140/2.1.4225.6648" target="_blank">web</a>
 			
 			
 	</div>
@@ -921,7 +1020,9 @@
   publisher = {IGI Global},
   series = {Advances in Digital Crime, Forensics, and Cyber Terrorism},
   title = {Network Situational Awareness: Sonification \&amp; Visualization in the Cyber Battlespace},
-  year = {2014}
+  year = {2014},
+  url = {http://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750},
+  doi = {https://doi.org/10.4018/978-1-4666-6324-4}
 }
 </pre></li>
 			</ul>
@@ -934,6 +1035,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.4018/978-1-4666-6324-4" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.igi-global.com/book/handbook-research-digital-crime-cyberspace/104750" target="_blank">web</a>
 			
 			
 	</div>
@@ -995,7 +1100,8 @@
   pages = {324--357},
   title = {A Survey of Two-Dimensional Graph Layout Techniques for Information Visualisation},
   volume = {12},
-  year = {2013}
+  year = {2013},
+  url = {https://doi.org/10.1177/1473871612455749}
 }
 </pre></li>
 			</ul>
@@ -1008,6 +1114,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1177/1473871612455749" target="_blank">web</a>
 			
 			
 	</div>
@@ -1032,7 +1140,9 @@
   pages = {1048--1061},
   title = {Understanding Visualization: A Formal Approach using Category Theory and Semiotics},
   volume = {19},
-  year = {2013}
+  year = {2013},
+  url = {https://doi.org/10.1109/TVCG.2012.294},
+  doi = {http://arxiv.org/pdf/1311.4376}
 }
 </pre></li>
 			</ul>
@@ -1045,6 +1155,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://arxiv.org/pdf/1311.4376" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/TVCG.2012.294" target="_blank">web</a>
 			
 			
 	</div>
@@ -1071,7 +1185,8 @@
   publisher = {Leiden University Press},
   title = {Ways of Listening and Modes of Being: Electroacoustic Auditory Display},
   volume = {2},
-  year = {2012}
+  year = {2012},
+  url = {http://journal.sonicstudies.org/vol02/nr01/a04}
 }
 </pre></li>
 			</ul>
@@ -1084,6 +1199,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://journal.sonicstudies.org/vol02/nr01/a04" target="_blank">web</a>
 			
 			
 	</div>
@@ -1109,7 +1226,8 @@
   month = "5--7~" # sep,
   publisher = {{IEEE} Computer Society},
   title = {User-Contributory Case Based Reasoning for Digital Forensic Investigations},
-  year = {2012}
+  year = {2012},
+  url = {https://doi.org/10.1109/EST.2012.35}
 }
 </pre></li>
 			</ul>
@@ -1122,6 +1240,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/EST.2012.35" target="_blank">web</a>
 			
 			
 	</div>
@@ -1148,7 +1268,8 @@
   series = {Lecture Notes in Computer Science},
   title = {A Method For Reducing The Risk of Errors In Digital Forensic Investigations},
   volume = {7394},
-  year = {2012}
+  year = {2012},
+  url = {https://doi.org/10.1007/978-3-642-32805-3_8}
 }
 </pre></li>
 			</ul>
@@ -1161,6 +1282,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1007/978-3-642-32805-3_8" target="_blank">web</a>
 			
 			
 	</div>
@@ -1186,7 +1309,8 @@
   organization = {{IEEE}},
   pages = {682--689},
   title = {A Case Based Reasoning Framework for Improving the Trustworthiness of Digital Forensic Investigations},
-  year = {2012}
+  year = {2012},
+  url = {https://doi.org/10.1109/TrustCom.2012.18}
 }
 </pre></li>
 			</ul>
@@ -1199,6 +1323,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/TrustCom.2012.18" target="_blank">web</a>
 			
 			
 	</div>
@@ -1222,7 +1348,8 @@
   month = "12--14~" # oct,
   pages = {193--194},
   title = {Network Infrastructure Visualisation Using High-Dimensional Node-Attribute Data},
-  year = {2012}
+  year = {2012},
+  url = {http://www.cse.ohio-state.edu/~raghu/teaching/CSE5544/Visweek2012/vast/challenge/gibson.pdf}
 }
 </pre></li>
 			</ul>
@@ -1235,6 +1362,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.cse.ohio-state.edu/Â raghu/teaching/CSE5544/Visweek2012/vast/challenge/gibson.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -1257,7 +1386,8 @@
   booktitle = {{CIS2012}: 11th {IEEE} Conference on Cybernetic Intelligent Systems},
   month = "23--24~" # aug,
   title = {An Intelligent Decision Support System for Personalized Cancer Treatment},
-  year = {2012}
+  year = {2012},
+  url = {https://doi.org/10.1109/CIS.2013.6782159}
 }
 </pre></li>
 			</ul>
@@ -1270,6 +1400,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1109/CIS.2013.6782159" target="_blank">web</a>
 			
 			
 	</div>
@@ -1328,7 +1460,9 @@
   month = dec,
   publisher = {IGI Global},
   title = {Securing Critical Infrastructures and Industrial Control Systems: Approaches for Threat Protection},
-  year = {2012}
+  year = {2012},
+  url = {https://doi.org/10.4018/978-1-4666-2659-1},
+  doi = {http://www.igi-global.com/book/securing-critical-infrastructures-critical-control/69203}
 }
 </pre></li>
 			</ul>
@@ -1341,6 +1475,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://www.igi-global.com/book/securing-critical-infrastructures-critical-control/69203" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.4018/978-1-4666-2659-1" target="_blank">web</a>
 			
 			
 	</div>
@@ -1402,7 +1540,8 @@
   pages = {1209--1223},
   title = {Parsed Use Case Descriptions as a Basis for Object-Oriented Class Model Generation},
   volume = {84},
-  year = {2011}
+  year = {2011},
+  url = {https://doi.org/10.1016/j.jss.2011.02.025}
 }
 </pre></li>
 			</ul>
@@ -1415,6 +1554,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/j.jss.2011.02.025" target="_blank">web</a>
 			
 			
 	</div>
@@ -1441,7 +1582,8 @@
   pages = {26--31},
   pdf = {http://nrl.northumbria.ac.uk/5557/1/m1569452341-horsman.pdf},
   title = {A Case Based Reasoning System for Automated Forensic Examinations},
-  year = {2011}
+  year = {2011},
+  url = {http://nrl.northumbria.ac.uk/5557/}
 }
 </pre></li>
 			</ul>
@@ -1456,6 +1598,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://nrl.northumbria.ac.uk/5557/" target="_blank">web</a>
 			
 			
 	</div>
@@ -1479,7 +1623,9 @@
   month = "4--8~" # jul,
   publisher = {British Computer Society},
   title = {Proceedings of the 25th {BCS} Conference on Human-Computer Interaction: Short Papers},
-  year = {2011}
+  year = {2011},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD2004/program.htm},
+  doi = {http://ewic.bcs.org/category/16894}
 }
 </pre></li>
 			</ul>
@@ -1492,6 +1638,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://ewic.bcs.org/category/16894" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD2004/program.htm" target="_blank">web</a>
 			
 			
 	</div>
@@ -1519,7 +1669,8 @@
   pdf = {http://sonification.de/handbook/download/TheSonificationHandbook-chapter18.pdf},
   publisher = {Logos Verlag},
   title = {Sonification for Process Monitoring},
-  year = {2011}
+  year = {2011},
+  url = {http://sonification.de/handbook/index.php/chapters/chapter18/}
 }
 </pre></li>
 			</ul>
@@ -1534,6 +1685,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://sonification.de/handbook/index.php/chapters/chapter18/" target="_blank">web</a>
 			
 			
 	</div>
@@ -1560,7 +1713,8 @@
   pdf = {http://sonification.de/handbook/download/TheSonificationHandbook-chapter7.pdf},
   publisher = {Logos Verlag},
   title = {Sonification Design and Aesthetics},
-  year = {2011}
+  year = {2011},
+  url = {http://sonification.de/handbook/index.php/chapters/chapter7/}
 }
 </pre></li>
 			</ul>
@@ -1575,6 +1729,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://sonification.de/handbook/index.php/chapters/chapter7/" target="_blank">web</a>
 			
 			
 	</div>
@@ -1600,7 +1756,8 @@
   pages = {33--47},
   title = {Painting the Ideal Home --- Using Art to Express Visions of Technologically-Supported Independent Living for Older People in North-East {E}ngland},
   volume = {8},
-  year = {2009}
+  year = {2009},
+  url = {https://doi.org/10.1007/s10209-008-0126-z}
 }
 </pre></li>
 			</ul>
@@ -1613,6 +1770,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1007/s10209-008-0126-z" target="_blank">web</a>
 			
 			
 	</div>
@@ -1635,7 +1794,8 @@
   isbn = {978-1-84480-903-5 / 1-84480-903-X},
   publisher = {Cengage Learning/Course Technology},
   title = {How to Think like a Programmer: Program Design Solutions for the Bewildered},
-  year = {2009}
+  year = {2009},
+  url = {http://www.howtothinklikeaprogrammer.com}
 }
 </pre></li>
 			</ul>
@@ -1648,6 +1808,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.howtothinklikeaprogrammer.com" target="_blank">web</a>
 			
 			
 	</div>
@@ -1712,7 +1874,8 @@
   month = mar,
   publisher = {Cengage Learning/Course Technology},
   title = {How to Think like a Programmer: Problem Solving for the Bewildered},
-  year = {2008}
+  year = {2008},
+  url = {http://www.howtothinklikeaprogrammer.com}
 }
 </pre></li>
 			</ul>
@@ -1725,6 +1888,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.howtothinklikeaprogrammer.com" target="_blank">web</a>
 			
 			
 	</div>
@@ -1750,7 +1915,8 @@
   pages = {57--68},
   title = {Problem-Solving with Learning Technology in the Music Studio},
   volume = {1},
-  year = {2007}
+  year = {2007},
+  url = {https://doi.org/10.1386/jmte.1.1.57/1}
 }
 </pre></li>
 			</ul>
@@ -1763,6 +1929,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1386/jmte.1.1.57/1" target="_blank">web</a>
 			
 			
 	</div>
@@ -1788,7 +1956,8 @@
   pdf = {http://nrl.northumbria.ac.uk/917/1/Security%20policy%20framework%20and%20algorithms%20for%20web.pdf},
   publisher = {Liverpool John Moores University},
   title = {Security Policy Framework and Algorithms for Web Server Content Protection},
-  year = {2007}
+  year = {2007},
+  url = {http://nrl.northumbria.ac.uk/917/}
 }
 </pre></li>
 			</ul>
@@ -1803,6 +1972,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://nrl.northumbria.ac.uk/917/" target="_blank">web</a>
 			
 			
 	</div>
@@ -1825,7 +1996,8 @@
   booktitle = {Proceedings of {ALT-C 2007} Beyond Control -- Learning Technology for the Social Network Generation (Abstracts Handbook)},
   month = "4--6~" # sep,
   title = {Podcasting and Assessment for Learning},
-  year = {2007}
+  year = {2007},
+  url = {http://nrl.northumbria.ac.uk/11269/}
 }
 </pre></li>
 			</ul>
@@ -1838,6 +2010,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://nrl.northumbria.ac.uk/11269/" target="_blank">web</a>
 			
 			
 	</div>
@@ -1904,7 +2078,9 @@
   pages = {210--216},
   pdf = {http://www.icad.org/Proceedings/2006/VickersHogg2006.pdf},
   title = {Sonification Abstraite/Sonification Concr{\`e}te: An `Aesthetic Perspective Space' for Classifying Auditory Displays in the Ars Musica Domain},
-  year = {2006}
+  year = {2006},
+  url = {http://arxiv.org/pdf/1311.5426},
+  doi = {http://www.icad.org/Proceedings/2006/}
 }
 </pre></li>
 			</ul>
@@ -1919,6 +2095,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://www.icad.org/Proceedings/2006/" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://arxiv.org/pdf/1311.5426" target="_blank">web</a>
 			
 			
 	</div>
@@ -1945,7 +2125,8 @@
   pages = {187--193},
   pdf = {http://www.icad.org/Proceedings/2006/MidgleyVickers2006.pdf},
   title = {Sonically-Enhanced Mouse Gestures in the Firefox Browser},
-  year = {2006}
+  year = {2006},
+  url = {http://www.icad.org/Proceedings/2006/}
 }
 </pre></li>
 			</ul>
@@ -1960,6 +2141,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/Proceedings/2006/" target="_blank">web</a>
 			
 			
 	</div>
@@ -1987,7 +2170,9 @@
   series = {Lecture {N}otes in {C}omputer {S}cience},
   title = {Lemma 4: Haptic Input + Auditory Display = Musical Instrument?},
   volume = {4129/2006},
-  year = {2006}
+  year = {2006},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/VickersWHAID.pdf},
+  doi = {http://link.springer.com/chapter/10.1007/11821731_6}
 }
 </pre></li>
 			</ul>
@@ -2002,6 +2187,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://link.springer.com/chapter/10.1007/11821731_6" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/VickersWHAID.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2030,7 +2219,9 @@
   pdf = {http://arxiv.org/pdf/1311.5434v1},
   publisher = {MIT Press},
   title = {The Well-Tempered Compiler: The Aesthetics of Program Auralization},
-  year = {2006}
+  year = {2006},
+  url = {http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=10919},
+  doi = {http://mitpress.mit.edu/catalog/item/default.asp?ttype=2%5C&amp;tid=10919}
 }
 </pre></li>
 			</ul>
@@ -2045,6 +2236,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://mitpress.mit.edu/catalog/item/default.asp?ttype=2%5C&amp;tid=10919" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=10919" target="_blank">web</a>
 			
 			
 	</div>
@@ -2073,7 +2268,9 @@
   publisher = {ACM Press},
   title = {Program {A}uralization: Author's Comments on Vickers and Alty, Icad 2000},
   volume = {2},
-  year = {2005}
+  year = {2005},
+  url = {https://doi.org/10.1145/1101530.1101547},
+  doi = {https://doi.org/10.1145/1101530.1101547}
 }
 </pre></li>
 			</ul>
@@ -2086,6 +2283,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.1145/1101530.1101547" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1145/1101530.1101547" target="_blank">web</a>
 			
 			
 	</div>
@@ -2112,7 +2313,8 @@
   publisher = {ACM Press},
   title = {Musical Program Auralization: Empirical Studies},
   volume = {2},
-  year = {2005}
+  year = {2005},
+  url = {https://doi.org/10.1145/1101530.1101546}
 }
 </pre></li>
 			</ul>
@@ -2125,6 +2327,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1145/1101530.1101546" target="_blank">web</a>
 			
 			
 	</div>
@@ -2188,7 +2392,9 @@
   pages = {351-357},
   pdf = {http://nrl.northumbria.ac.uk/11262/1/10.1.1.89.8008.pdf},
   title = {Music and Speech in Auditory Interfaces: When is One Mode More Appropriate Than the Other?},
-  year = {2005}
+  year = {2005},
+  url = {http://userver.ftw.at/~frohlich/papers/ICAD2005_Workshop_Alty.pdf},
+  doi = {http://www.idc.ul.ie/icad2005/programme.php}
 }
 </pre></li>
 			</ul>
@@ -2203,6 +2409,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://www.idc.ul.ie/icad2005/programme.php" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://userver.ftw.at/Â frohlich/papers/ICAD2005_Workshop_Alty.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2229,7 +2439,9 @@
   pages = {423-427},
   pdf = {http://sonify.psych.gatech.edu/ags2005/pdf/AGS05_Vickers.pdf},
   title = {Whither and Wherefore the Auditory Graph? {A}bstractions {\&amp;} Aesthetics in Auditory and Sonified Graphs},
-  year = {2005}
+  year = {2005},
+  url = {http://sonify.psych.gatech.edu/ags2005/pdf/AGS05_Vickers.pdf},
+  doi = {http://www.idc.ul.ie/icad2005/programme.php}
 }
 </pre></li>
 			</ul>
@@ -2244,6 +2456,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://www.idc.ul.ie/icad2005/programme.php" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://sonify.psych.gatech.edu/ags2005/pdf/AGS05_Vickers.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2343,7 +2559,8 @@
   isbn = {1-74108-048-7},
   month = "6--9~" # jul,
   title = {Sonification and Visualisation of Narrative: Getting Computing Students to Think Aurally and Visually Rather Than Audio-Visually},
-  year = {2004}
+  year = {2004},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD2004/papers/vickers_sonify_fest.pdf}
 }
 </pre></li>
 			</ul>
@@ -2356,6 +2573,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD2004/papers/vickers_sonify_fest.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2419,7 +2638,8 @@
   author = {Methaneethorn, Jutima and Vickers, Paul and Brna, Paul},
   booktitle = {ITS 2004 - 7th International Conference on Intelligent Tutoring Systems},
   title = {Analyzing the Influences between Learners' Motivational Characteristics and {ILE} Features during the Interaction with an {ILE}},
-  year = {2004}
+  year = {2004},
+  url = {https://www.researchgate.net/publication/236270899_Analyzing_the_Influences_between_Learners'_Motivational_Characteristics_and_ILE_Features_during_the_Interaction_with_an_ILE}
 }
 </pre></li>
 			</ul>
@@ -2432,6 +2652,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://www.researchgate.net/publication/236270899_Analyzing_the_Influences_between_Learnersâ€™_Motivational_Characteristics_and_ILE_Features_during_the_Interaction_with_an_ILE" target="_blank">web</a>
 			
 			
 	</div>
@@ -2457,7 +2679,8 @@
   publisher = {Springer},
   series = {Lecture Notes in Computer Science},
   title = {A Study of Application and Device Effects between a {WAP} Phone and a Palm {PDA}},
-  year = {2004}
+  year = {2004},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Buranatrived&amp;VickersFinal.pdf}
 }
 </pre></li>
 			</ul>
@@ -2470,6 +2693,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Buranatrived&amp;VickersFinal.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2496,7 +2721,8 @@
   pdf = {http://www.icad.org/websiteV2.0/Conferences/ICAD2004/papers/vickers.pdf},
   publisher = {{ICAD}},
   title = {External Auditory Representations of Programs: Past, Present, and Future -- An Aesthetic Perspective},
-  year = {2004}
+  year = {2004},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD2004/papers/vickers.pdf}
 }
 </pre></li>
 			</ul>
@@ -2511,6 +2737,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD2004/papers/vickers.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2534,7 +2762,8 @@
   isbn = {1-74108-048-7},
   month = "6--9~" # jul,
   title = {{ICAD} 2004: Proceedings of the 10th Meeting of the International Conference on Auditory Display, 6-9 July},
-  year = {2004}
+  year = {2004},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD2004/program.htm}
 }
 </pre></li>
 			</ul>
@@ -2547,6 +2776,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD2004/program.htm" target="_blank">web</a>
 			
 			
 	</div>
@@ -2606,7 +2837,9 @@
   pages = {86-92},
   title = {Siren Songs and Swan Songs: Debugging with Music},
   volume = {46},
-  year = {2003}
+  year = {2003},
+  url = {http://portal.acm.org/citation.cfm?doid=792704.792734},
+  doi = {https://doi.org/10.1145/792704.792734}
 }
 </pre></li>
 			</ul>
@@ -2619,6 +2852,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://doi.org/10.1145/792704.792734" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://portal.acm.org/citation.cfm?doid=792704.792734" target="_blank">web</a>
 			
 			
 	</div>
@@ -2644,7 +2881,8 @@
   pages = {224-227},
   publisher = {{ICAD}},
   title = {Household Appliances Control Device for the Elderly},
-  year = {2003}
+  year = {2003},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD2003/paper/55%20Sainz%20Salces.pdf}
 }
 </pre></li>
 			</ul>
@@ -2657,6 +2895,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD2003/paper/55%20Sainz%20Salces.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2682,7 +2922,8 @@
   pages = {793--819},
   title = {When Bugs Sing},
   volume = {14},
-  year = {2002}
+  year = {2002},
+  url = {https://doi.org/10.1016/S0953-5438(02)00026-7}
 }
 </pre></li>
 			</ul>
@@ -2695,6 +2936,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/S0953-5438(02)00026-7" target="_blank">web</a>
 			
 			
 	</div>
@@ -2718,7 +2961,8 @@
   pages = {457--485},
   title = {Musical Program Auralisation: A Structured Approach to Motif Design},
   volume = {14},
-  year = {2002}
+  year = {2002},
+  url = {https://doi.org/10.1016/S0953-5438(02)00004-8}
 }
 </pre></li>
 			</ul>
@@ -2731,6 +2975,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/S0953-5438(02)00004-8" target="_blank">web</a>
 			
 			
 	</div>
@@ -2754,7 +3000,8 @@
   pages = {435--456},
   title = {Using Music to Communicate Computing Information},
   volume = {14},
-  year = {2002}
+  year = {2002},
+  url = {https://doi.org/10.1016/S0953-5438(02)00003-6}
 }
 </pre></li>
 			</ul>
@@ -2767,6 +3014,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.1016/S0953-5438(02)00003-6" target="_blank">web</a>
 			
 			
 	</div>
@@ -2791,7 +3040,8 @@
   isbn = {0-7803-7686-2},
   pages = {90-95},
   title = {An Investigation of the Impact of Mobile Phone and {PDA} Interfaces on the Usability of Mobile-Commerce Applications},
-  year = {2002}
+  year = {2002},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Buranatrived&amp;Vickers_IWNA_5.pdf}
 }
 </pre></li>
 			</ul>
@@ -2804,6 +3054,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Buranatrived&amp;Vickers_IWNA_5.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2862,7 +3114,8 @@
   pages = {107-112},
   publisher = {IEEE, Piscataway, NJ},
   title = {From Server to {PDA}: An {HCI} Perspective on Porting Wireless Roaming Business Applications},
-  year = {2002}
+  year = {2002},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Clement&amp;Vickers_IWNA_5.pdf}
 }
 </pre></li>
 			</ul>
@@ -2875,6 +3128,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/Clement&amp;Vickers_IWNA_5.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2938,7 +3193,8 @@
   number = {CMS 21 (2001)},
   title = {Using the World-Wide Web as a Platform for an Interactive Experiment},
   type = {Technical Report},
-  year = {2001}
+  year = {2001},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/CMS21_2001.pdf}
 }
 </pre></li>
 			</ul>
@@ -2951,6 +3207,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/CMS21_2001.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -2978,7 +3236,8 @@
   pages = {157-166},
   publisher = {International Community for Auditory Display},
   title = {Musical Program Auralisation: Empirical Studies},
-  year = {2000}
+  year = {2000},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD2000/PDFs/VickersAlty.pdf}
 }
 </pre></li>
 			</ul>
@@ -2991,6 +3250,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD2000/PDFs/VickersAlty.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -3018,7 +3279,8 @@
   pages = {13-22},
   publisher = {Group D Publications Ltd},
   title = {The Use of Audio in Minimal Access Surgery},
-  year = {1999}
+  year = {1999},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/pv_eam99.pdf}
 }
 </pre></li>
 			</ul>
@@ -3031,6 +3293,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/pv_eam99.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -3056,7 +3320,8 @@
   school = {Loughborough University},
   title = {{CAITLIN}: Implementation of a Musical Program Auralisation System to Study the Effects on Debugging Tasks as Performed by Novice Pascal Programmers},
   type = {{Ph.D.} Thesis},
-  year = {1999}
+  year = {1999},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/caitlin/phd1.htm}
 }
 </pre></li>
 			</ul>
@@ -3071,6 +3336,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/caitlin/phd1.htm" target="_blank">web</a>
 			
 			
 	</div>
@@ -3098,7 +3365,8 @@
   publisher = {British Computer Society},
   series = {Electronic Workshops in Computing},
   title = {Towards Some Organising Principles for Musical Program Auralisation},
-  year = {1998}
+  year = {1998},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD98/icad98programme.html}
 }
 </pre></li>
 			</ul>
@@ -3111,6 +3379,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD98/icad98programme.html" target="_blank">web</a>
 			
 			
 	</div>
@@ -3137,7 +3407,9 @@
   pages = {89-96},
   publisher = {Xerox PARC, Palo Alto, CA 94304},
   title = {The {CAITLIN} Auralization System: Hierarchical Leitmotif Design as a Clue to Program Comprehension},
-  year = {1997}
+  year = {1997},
+  url = {http://www.icad.org/websiteV2.0/Conferences/ICAD97/Alty.pdf},
+  doi = {http://arxiv.org/pdf/1311.4349}
 }
 </pre></li>
 			</ul>
@@ -3150,6 +3422,10 @@
 			
 			
 			
+				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/http://arxiv.org/pdf/1311.4349" target="_blank">doi</a>
+			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://www.icad.org/websiteV2.0/Conferences/ICAD97/Alty.pdf" target="_blank">web</a>
 			
 			
 	</div>
@@ -3174,7 +3450,8 @@
   pages = {30-31},
   publisher = {ACM Press},
   title = {Using Music as a Communication Medium},
-  year = {1997}
+  year = {1997},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/CHI97AltyRigasVickers.PDF}
 }
 </pre></li>
 			</ul>
@@ -3187,6 +3464,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/CHI97AltyRigasVickers.PDF" target="_blank">web</a>
 			
 			
 	</div>
@@ -3213,7 +3492,8 @@
   pages = {17-24},
   publisher = {Xerox PARC, Palo Alto, CA 94304},
   title = {{CAITLIN}: A Musical Program Auralisation Tool to Assist Novice Programmers with Debugging},
-  year = {1996}
+  year = {1996},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/ICAD96Vickers&amp;Alty.PDF}
 }
 </pre></li>
 			</ul>
@@ -3226,6 +3506,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/downloadables/ICAD96Vickers&amp;Alty.PDF" target="_blank">web</a>
 			
 			
 	</div>
@@ -3250,7 +3532,8 @@
   booktitle = {3rd All-Ireland Conference on the Teaching of Computing},
   pages = {232-236},
   title = {Using a Prototype Program Assessment Tool},
-  year = {1995}
+  year = {1995},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/uppat.htm}
 }
 </pre></li>
 			</ul>
@@ -3263,6 +3546,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/uppat.htm" target="_blank">web</a>
 			
 			
 	</div>
@@ -3287,7 +3572,8 @@
   pages = {285-294},
   publisher = {CTI/Dublin City University},
   title = {Interactive Program Assessment Using Sprout},
-  year = {1995}
+  year = {1995},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/ipaus.htm}
 }
 </pre></li>
 			</ul>
@@ -3300,6 +3586,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/ipaus.htm" target="_blank">web</a>
 			
 			
 	</div>
@@ -3324,7 +3612,8 @@
   isbn = {0-07-707913-2},
   publisher = {McGraw-Hill},
   title = {A First Course in Computer Programming Using C},
-  year = {1994}
+  year = {1994},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/books.htm}
 }
 </pre></li>
 			</ul>
@@ -3337,6 +3626,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/books.htm" target="_blank">web</a>
 			
 			
 	</div>
@@ -3360,7 +3651,8 @@
   author = {Vickers, Paul and Pardoe, John P. and Wade, Stuart J.},
   booktitle = {Computer Assisted Learning of Computing},
   title = {Software Assisted Program Design},
-  year = {1991}
+  year = {1991},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/sapd.htm}
 }
 </pre></li>
 			</ul>
@@ -3373,6 +3665,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/sapd.htm" target="_blank">web</a>
 			
 			
 	</div>
@@ -3394,7 +3688,8 @@
   author = {Vickers, Paul and Pardoe, Jihn P. and Wade, Stuart J.},
   booktitle = {Software Supported Programming Instruction Workshop},
   title = {The Use of Literate Program Development Tools},
-  year = {1991}
+  year = {1991},
+  url = {http://cis.northumbria.ac.uk/staff/cgpv1/ulpdt.htm}
 }
 </pre></li>
 			</ul>
@@ -3407,6 +3702,8 @@
 			
 			
 			
+			
+				<a role="button" class="btn btn-warning btn-xs" href="http://cis.northumbria.ac.uk/staff/cgpv1/ulpdt.htm" target="_blank">web</a>
 			
 			
 	</div>
