@@ -1,4 +1,4 @@
-I"«<script type="text/javascript" async="" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+I"v<script type="text/javascript" async="" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
 <h2 id="background">Background</h2>
@@ -107,9 +107,8 @@ you can get a glimpse of what we were doing <a href="https://vimeo.com/219668024
   author = {Vickers, Paul and Ballweg, Holger},
   month = jul,
   title = {nuson-{SoniFRED}: Sonification of the {F}unctional {R}eadaptive {E}xercise {D}evice},
-  year = {2017},
-  url = {https://doi.org/10.5281/zenodo.47303},
-  doi = {https://github.com/nuson/SoniFRED}
+  url = {https://github.com/nuson/SoniFRED},
+  year = {2017}
 }
 </pre></li>
 			</ul>
@@ -124,10 +123,6 @@ you can get a glimpse of what we were doing <a href="https://vimeo.com/219668024
 				<a role="button" class="btn btn-info btn-xs" href="https://github.com/nuson/SoniFRED" target="_blank">github</a>
 			
 			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/https://github.com/nuson/SoniFRED" target="_blank">doi</a>
-			
-			
-				<a role="button" class="btn btn-warning btn-xs" href="https://doi.org/10.5281/zenodo.47303" target="_blank">web</a>
 			
 			
 	</div>

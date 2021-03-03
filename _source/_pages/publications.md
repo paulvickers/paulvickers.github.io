@@ -9,7 +9,6 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   overlay_filter: rgba(72, 178, 216, 0.3)
 ---
-
 {% bibliography %}
 
 
