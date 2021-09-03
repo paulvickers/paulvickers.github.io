@@ -8,8 +8,8 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   overlay_filter: rgba(0, 153, 253, 0.4)
 ---
-My name is Paul Vickers and I am Associate Professor & Reader in Computer Science & 
-Computational Perceptualisation at Northumbria University in Newcastle-upon-Tyne, UK.
+My name is Paul Vickers and I am Professor of Computer Science & 
+Sonification at Northumbria University in Newcastle-upon-Tyne, UK.
 
 I work in the Department of [Computer & Information Sciences](https://www.northumbria.ac.uk/about-us/academic-departments/computer-and-information-sciences/) 
 in the Faculty of Engineering and Environment at [Northumbria University](https://www.northumbria.ac.uk/). I also have an 
@@ -26,7 +26,7 @@ I am a computer scientist. I am a chartered engineer. I teach and research in th
 
 I collaborate with computer and network security specialists, with 3D modellers and digital special effects experts, with musicians, with artists, and, of course, with other computer scientists and engineers.
 
-I also served as a board member of the [International Community for Auditory Display](http://www.icad.org) 2004-2012, 2015-2018.
+I also served as a board member of the [International Community for Auditory Display](http://www.icad.org) 2004-2012, 2015-2018, 2019–2022.
 
 ---
 <dl>

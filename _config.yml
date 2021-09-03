@@ -14,7 +14,7 @@ github: [metadata]
 locale                   : "en-GB"
 title                    : "Paul Vickers"
 title_separator          : "-"
-name                     : "Dr Paul vickers"
+name                     : "Prof. Paul vickers"
 description              : "Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization."
 url                      : "https://paulvickers.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -106,9 +106,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Dr Paul Vickers"
+  name             : "Prof. Paul Vickers"
   avatar           : "bio-photo.jpg"
-  bio              : "Associate Professor & Reader. <br>Computer Science and Computational Perceptualisation. Northumbria University."
+  bio              : "Professor of Computer Science & Sonification. Northumbria University."
   location         : "Newcastle-upon-Tyne"
   email            : "paul.vickers@northumbria.ac.uk"
   uri              :
