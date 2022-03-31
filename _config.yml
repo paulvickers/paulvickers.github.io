@@ -79,7 +79,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "drpaulvickers"
+  username               : "profpaulvickers"
 facebook:
   username               :
   app_id                 :
@@ -91,7 +91,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/drpaulvickers"
+    - "https://twitter.com/profpaulvickers"
 
 # Analytics
 analytics:
@@ -124,13 +124,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "drpaulvickers"
+  linkedin         : "profpaulvickers"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "drpaulvickers"
+  twitter          : "profpaulvickers"
   vine             :
   weibo            :
   xing             :
