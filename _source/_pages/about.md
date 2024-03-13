@@ -22,11 +22,11 @@ I am the author of [How To Think Like A Programmer](http://www.howtothinklikeapr
 
 Prior to October 2001 I worked for 12 years in the School of Computing & Mathematical Sciences at Liverpool John Moores University.
 
-I am a computer scientist. I am a chartered engineer. I teach and research in the computing domain where it intersects with creative digital media. For instance, I teach introductory digital audio, I conduct research into how to use sound to communicate data and information (sonification) and I also look at how the aesthetic properties of scientific artefacts affect how they may be used, that is, how people interact with them. 
+I am a computer scientist. I teach and research in the computing domain where it intersects with creative digital media. For instance, I teach introductory digital audio, I conduct research into how to use sound to communicate data and information (sonification) and I also look at how the aesthetic properties of scientific artefacts affect how they may be used, that is, how people interact with them. 
 
 I collaborate with computer and network security specialists, with 3D modellers and digital special effects experts, with musicians, with artists, and, of course, with other computer scientists and engineers.
 
-I also served as a board member of the [International Community for Auditory Display](http://www.icad.org) 2004-2012, 2015-2018, 2019–2022.
+I  served as a board member of the [International Community for Auditory Display](http://www.icad.org) 2004-2012, 2015-2018, 2019–2022, and as President from 2022–2025.
 
 ---
 <dl>
