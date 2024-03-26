@@ -1,0 +1,42 @@
+{
+  "name": "minimal-mistakes",
+  "version": "3.2.9",
+  "description": "Minimal Mistakes Jekyll theme npm build scripts",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+  },
+  "keywords": [
+    "jekyll",
+    "theme",
+    "minimal"
+  ],
+  "author": "Michael Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+  },
+  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.5",
+    "node-sass": "^3.4.2",
+    "npm-run-all": "^1.7.0",
+    "onchange": "^2.2.0",
+    "postcss-cli": "^2.5.1",
+    "uglify-js": "^2.6.1"
+  },
+  "scripts": {
+    "scss": "node-sass --output-style compressed -o _source/assets/css _source/assets/_scss",
+    "autoprefixer": "postcss -u autoprefixer -b \">, 5%, ie 9\" -r _source/assets/css/*",
+    "uglify": "uglifyjs _source/assets/js/vendor/jquery/jquery-1.12.1.min.js _source/assets/js/plugins/jquery.fitvids.js _source/assets/js/plugins/jquery.greedy-navigation.js _source/assets/js/plugins/jquery.magnific-popup.js _source/assets/js/plugins/jquery.smooth-scroll.min.js _source/assets/js/plugins/stickyfill.min.js _source/assets/js/bootstrap.js _source/assets/js/_main.js -c -m -o _source/assets/js/main.min.js",
+    "watch:css": "onchange \"_source/assets/_scss/**/*.scss\" -- npm run build:css",
+    "watch:js": "onchange \"_source/assets/js/**/*.js\" -e \"_source/assets/js/main.min.js\" -- npm run build:js",
+    "watch:all": "npm-run-all --parallel watch:css watch:js",
+    "build:css": "npm run scss && npm run autoprefixer",
+    "build:js": "npm run uglify",
+    "build:all": "npm run build:css && npm run build:js"
+  }
+}
