@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2024-11-12T11:51:36+00:00</updated><id>https://paulvickers.github.io/feed.xml</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Prof. Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">Special Issue ‘Cyber Security and Privacy in IoT’</title><link href="https://paulvickers.github.io/chat/public/IoT-special-issue/" rel="alternate" type="text/html" title="Special Issue ‘Cyber Security and Privacy in IoT’" /><published>2020-09-03T00:00:00+01:00</published><updated>2020-09-03T00:00:00+01:00</updated><id>https://paulvickers.github.io/chat/public/IoT-special-issue</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/IoT-special-issue/"><![CDATA[<h2 id="special-issue-cyber-security-and-privacy-in-iot">Special Issue “Cyber Security and Privacy in IoT”</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://paulvickers.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://paulvickers.github.io/" rel="alternate" type="text/html" /><updated>2024-12-06T16:45:39+00:00</updated><id>https://paulvickers.github.io/feed.xml</id><title type="html">Paul Vickers</title><subtitle>Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization.</subtitle><author><name>Prof. Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><entry><title type="html">Sonic intangibles</title><link href="https://paulvickers.github.io/chat/public/sonic-intangibles/" rel="alternate" type="text/html" title="Sonic intangibles" /><published>2024-12-06T00:00:00+00:00</published><updated>2024-12-06T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/sonic-intangibles</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/sonic-intangibles/"><![CDATA[<h2 id="new-interdisciplinary-research-project">New Interdisciplinary Research Project”</h2>
+
+<p>I am pleased to announce that I will be leading a new research project beginning in February, 2025. <em>Sonic intangibles: Northumbria and Newcastle Universities Sonification Hub for Innovation in Sound and Meaning</em> has been awarded funding under Round 1 of the new <a href="https://www.ukri.org/news/first-projects-from-ukris-new-interdisciplinary-scheme-announced/" target="_blank">UKRI Cross Research Council Responsive Mode Scheme</a>. This two-year project brings together sonification researchers at Northumbria University and Newcastle University to focus on new interdisciplinary ways of working for conducting successful sonification design projects.</p>
+
+<p>For more info and to keep up-to-date with the project, go to its <a href="https://sonicintangibles.github.io" target="_blank">web site</a>.</p>]]></content><author><name>Prof. Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="chat" /><category term="public" /><category term="sonification" /><category term="auditory display" /><category term="privacy" /><category term="security" /><summary type="html"><![CDATA[Northumbria and Newcastle Universities Sonification Hub for Innovation in Sound and Meaning]]></summary></entry><entry><title type="html">Special Issue ‘Cyber Security and Privacy in IoT’</title><link href="https://paulvickers.github.io/chat/public/IoT-special-issue/" rel="alternate" type="text/html" title="Special Issue ‘Cyber Security and Privacy in IoT’" /><published>2020-09-03T00:00:00+01:00</published><updated>2020-09-03T00:00:00+01:00</updated><id>https://paulvickers.github.io/chat/public/IoT-special-issue</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/IoT-special-issue/"><![CDATA[<h2 id="special-issue-cyber-security-and-privacy-in-iot">Special Issue “Cyber Security and Privacy in IoT”</h2>
 
 <p>I am pleased to announce a special issue of MDPI’s <a href="https://www.mdpi.com/journal/IoT" target="_blank">IoT journal</a> focusing on  Cyber Security and Privacy in IoT which I am jointly guest editing with Dr James Nicholson.</p>
 
@@ -180,57 +184,4 @@ part of the <a href="/SoNSTAR/">SoNSTAR</a> project.</p>
 	<br /><br />
 </div>
 
-</li></ul>]]></content><author><name>Prof. Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="chat" /><category term="public" /><category term="sonification" /><category term="network monitoring" /><category term="situational awareness" /><summary type="html"><![CDATA[Maintaining situational awareness of what is happening within a computer network is challenging, not least because the behaviour happens within computers and communications networks, but also because data traffic speeds and volumes are beyond human ability to process.]]></summary></entry><entry><title type="html">graphTPP: A multivariate based method for interactive graph layout and analysis</title><link href="https://paulvickers.github.io/chat/public/graphTPP/" rel="alternate" type="text/html" title="graphTPP: A multivariate based method for interactive graph layout and analysis" /><published>2017-12-18T00:00:00+00:00</published><updated>2017-12-18T00:00:00+00:00</updated><id>https://paulvickers.github.io/chat/public/graphTPP</id><content type="html" xml:base="https://paulvickers.github.io/chat/public/graphTPP/"><![CDATA[<p>Graph layout is the process of creating a visual representation of a graph through a
-node-link diagram. Node-attribute graphs have additional data stored on the nodes which
-describe certain properties of the nodes called attributes. Typical force-directed
-representations often produce hairball-like structures that neither aid in understanding
-the graph’s topology nor the relationship to its attributes. The aim of this research
-was to investigate the use of node-attributes for graph layout in order to improve the
-analysis process and to give further insight into the graph over purely topological
-layouts. In this article we present graphTPP, a graph based extension to targeted
-projection pursuit (TPP) — an interactive, linear, dimension reduction technique — as a
-method for graph layout and subsequent further analysis. TPP allows users to control the
-projection and is optimised for clustering. Three case studies were conducted in the
-areas of influence graphs, network security, and citation networks. In each case
-graphTPP was shown to outperform standard force-directed techniques and even other
-dimension reduction methods in terms of clarity of clustered structure in the layout,
-the association between the structure and the attributes and the insights elicited in
-each domain area. A pre-print of the article is <a href="http://arxiv.org/abs/1712.05644">available on arXiv</a>.</p>
-
-<ul class="bibliography" reversed=""><li><span id="Gibson:2018">Gibson, H., &amp; Vickers, P. (2017). <b>graphTPP: A multivariate based method for interactive graph layout and analysis</b>. <i>ArXiv Preprint ArXiv:1712.05644</i>.</span>
-<div class="row">
-<div class="col-md-2">
-		<div class="btn-group">
-			<button type="button" class="btn btn-info btn-xs dropdown-toggle" data-toggle="dropdown">
-				Bib Entry
-				<span class="caret"></span>
-			</button>
-			<ul class="dropdown-menu dropdown-menu-left" role="menu">
-				<li><pre>@article{Gibson:2018,
-  author = {Gibson, Helen and Vickers, Paul},
-  journal = {arXiv preprint arXiv:1712.05644},
-  month = dec,
-  pdf = {https://arxiv.org/pdf/1712.05644},
-  title = {graphTPP: A multivariate based method for interactive graph layout and analysis},
-  year = {2017}
-}
-</pre></li>
-			</ul>
-		</div>
-	</div>
-	<div class="col-md-7">
-			
-				<a role="button" class="btn btn-primary btn-xs" href="https://arxiv.org/pdf/1712.05644" target="_blank">pdf</a>
-			
-			
-			
-			
-			
-			
-			
-			
-	</div>
-	<br /><br />
-</div>
-
-</li></ul>]]></content><author><name>Prof. Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="chat" /><category term="public" /><category term="graph layout" /><category term="targeted projection pursuit" /><category term="adjacency matrix" /><summary type="html"><![CDATA[Graph layout is the process of creating a visual representation of a graph through a node-link diagram. Node-attribute graphs have additional data stored on the nodes which describe certain properties of the nodes called attributes.]]></summary></entry></feed>
+</li></ul>]]></content><author><name>Prof. Paul Vickers</name><email>paul.vickers@northumbria.ac.uk</email></author><category term="chat" /><category term="public" /><category term="sonification" /><category term="network monitoring" /><category term="situational awareness" /><summary type="html"><![CDATA[Maintaining situational awareness of what is happening within a computer network is challenging, not least because the behaviour happens within computers and communications networks, but also because data traffic speeds and volumes are beyond human ability to process.]]></summary></entry></feed>
