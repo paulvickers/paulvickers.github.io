@@ -30,3 +30,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "reduce"
 end
+
+gem "csv", "~> 3.3"
