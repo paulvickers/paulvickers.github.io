@@ -75,14 +75,15 @@ namespace :build do
   end
 end
 
-desc "Commit _site/"
+desc "Commit _site/ (optional: MSG=\"Your commit message\")"
 task :commit do
   puts "\n## Staging modified files"
   status = system("git add -A")
   puts status ? "Success" : "Failed"
-  puts "\n## Committing a site build at #{Time.now.utc}"
-  message = "Build site at #{Time.now.utc}"
-  status = system("git commit -m \"#{message}\"")
+  message = ENV["MSG"].to_s.strip
+  message = "Build site at #{Time.now.utc}" if message.empty?
+  puts "\n## Committing: #{message}"
+  status = system("git", "commit", "-m", message)
   puts status ? "Success" : "Failed"
   puts "\n## Pushing commits to remote"
   status = system("git push origin source")
