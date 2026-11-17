@@ -219,7 +219,7 @@ GEM
       ffi (~> 1.0)
     reduce (0.3.0)
       smusher
-    rexml (3.4.1)
+    rexml (3.4.2)
     rouge (4.6.0)
     safe_yaml (1.0.5)
     sass-embedded (1.89.2)
