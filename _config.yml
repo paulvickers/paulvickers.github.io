@@ -15,7 +15,7 @@ locale                   : "en-GB"
 title                    : "Paul Vickers"
 title_separator          : "-"
 name                     : "Prof. Paul vickers"
-description              : "Sonification, auditory display, human-computer interaction, aesthetics, network security, visualization, digital living, computational perceptualization."
+description              : "Sonification, auditory display, aesthetics, computational perceptualization."
 url                      : "https://paulvickers.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -79,7 +79,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "profpaulvickers"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -108,7 +108,7 @@ google_ad_slot           :
 author:
   name             : "Prof. Paul Vickers"
   avatar           : "bio-photo.jpg"
-  bio              : "Professor of Computer Science & Sonification. Northumbria University."
+  bio              : "Professor Emeritus of Computer Science & Sonification. Northumbria University."
   location         : "Newcastle-upon-Tyne"
   email            : "paul.vickers@northumbria.ac.uk"
   uri              :
@@ -130,11 +130,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "profpaulvickers"
+#  twitter          : "profpaulvickers"
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCzPUsIFSebzseWIGP1u0qqw"
+#  youtube          : "UCzPUsIFSebzseWIGP1u0qqw"
 # PV Added academic links
   orcid            : "0000-0003-0963-5005"
   scholar          : "DZvyJWYAAAAJ&hl=en"

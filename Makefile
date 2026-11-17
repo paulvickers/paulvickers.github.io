@@ -8,4 +8,4 @@ build :
 	bundle exec jekyll build --config _config.yml
 	
 serve:
-	bundle exec jekyll serve --config _config.dev.yml
+	bundle exec jekyll serve --config _config.yml
